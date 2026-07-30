@@ -1,0 +1,12 @@
+CORRECT PACKAGE CHECK
+
+This folder must contain:
+- .github/workflows/update-feed.yml
+- docs/
+- generate.py
+- requirements.txt
+- README.md
+
+It should NOT contain .env.example.
+
+On macOS Finder, press Command + Shift + . to show .github.

@@ -1,0 +1,44 @@
+name: Update stock news feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Three updates per day. Five tickers use at most 15 Alpha Vantage calls/day.
+    - cron: "20 1,9,17 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Generate website and RSS
+        env:
+          ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
+          STOCK_TICKERS: ${{ vars.STOCK_TICKERS }}
+        run: python generate.py
+
+      - name: Publish updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --staged --quiet; then
+            echo "No content changes."
+          else
+            git commit -m "Update stock news feed"
+            git push
+          fi
