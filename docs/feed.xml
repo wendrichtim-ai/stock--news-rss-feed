@@ -5,183 +5,535 @@
     <link>https://wendrichtim-ai.github.io/stock--news-rss-feed/</link>
     <description>Stock news with automated ticker-specific bullish, neutral, or bearish labels.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:56:18 +0000</lastBuildDate>
     <ttl>480</ttl>
     <item>
-      <title>[NVDA Bullish (+0.40)] Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html</link>
-      <guid isPermaLink="false">f54b43eda205354fcf2c2f20e953a0b580eb52775c97f312b1591ba18c8c7aa2</guid>
-      <pubDate>Sun, 13 Sep 2026 19:14:13 +0000</pubDate>
-      <source>Yahoo Finance</source>
+      <title>[AMZN Bullish (+0.34)] Verizon Leads 6G Momentum with Nine New Forum Members and Successful Real-World ISAC and AI-Native Trials</title>
+      <link>https://markets.businessinsider.com/news/stocks/verizon-leads-6g-momentum-with-nine-new-forum-members-and-successful-real-world-isac-and-ai-native-trials-1036542894</link>
+      <guid isPermaLink="false">6a827a5b7c80e1b2deadb41931995a052fb9a0e9531b346bb42dac8b4f1b6ae4</guid>
+      <pubDate>Mon, 14 Sep 2026 14:14:11 +0000</pubDate>
+      <source>markets.businessinsider.com</source>
+      <category>AMZN Bullish (+0.34)</category>
+      <description>Sentiment: AMZN Bullish (+0.34)
+
+Verizon is accelerating its 6G development by expanding its 6G Innovation Forum (6GIF) to include nine new industry leaders like Amazon Web Services, Cisco, and NVIDIA. The company also announced successful real-world trials for Integrated Sensing and Communication (ISAC) with Samsung and Qualcomm, demonstrating capabilities for crowd detection and drone/vehicle tracking. Additionally, Verizon showcased an AI Sports Companion application prototype, emphasizing future AI-native devices and ultra-low latency applications for the 6G era.</description>
+    </item>
+    <item>
+      <title>[AAPL Neutral (-0.11)] Musk’s X Corp and SpaceXAI resolve antitrust lawsuit against Apple</title>
+      <link>https://wtaq.com/2026/09/14/musks-x-corp-and-spacexai-resolve-antitrust-lawsuit-against-apple/</link>
+      <guid isPermaLink="false">bfe63e6fa35de24b6dd368c57807399d8a5e6d0361473b3e0ab6924e3268ec6a</guid>
+      <pubDate>Mon, 14 Sep 2026 14:11:21 +0000</pubDate>
+      <source>WTAQ</source>
+      <category>AAPL Neutral (-0.11)</category>
+      <description>Sentiment: AAPL Neutral (-0.11)
+
+Elon Musk's X Corp and SpaceXAI have resolved their antitrust lawsuit against Apple in federal court in Texas. The lawsuit alleged that Apple conspired to monopolize markets for smartphones and generative AI chatbots. The resolution was reported by Mike Scarcella and edited by David Bario and Nick Zieminski.</description>
+    </item>
+    <item>
+      <title>[AAPL Bearish (-0.29)] Apple apparently doesn’t want you hanging out at its stores anymore</title>
+      <link>https://www.macworld.com/article/3234575/apple-apparently-doesnt-want-you-hanging-out-at-its-stores-anymore.html</link>
+      <guid isPermaLink="false">125cbf7a0d2e74d0e3b5059ccbf438a6aac1da80aeb0a696da6cd81af281ecc0</guid>
+      <pubDate>Mon, 14 Sep 2026 14:04:21 +0000</pubDate>
+      <source>Macworld</source>
+      <category>AAPL Bearish (-0.29)</category>
+      <description>Sentiment: AAPL Bearish (-0.29)
+
+Apple is reportedly planning a major revamp of its retail stores under new CEO John Ternus, shifting focus from community gathering places to more traditional retail spaces. This change will involve bringing back dedicated Genius Bars, removing large video walls, and redesigning "Avenue" sections for online order collection and "Today at Apple" workshops. The strategy aims to prioritize sales over community connection, with stricter rules also being implemented for employees.</description>
+    </item>
+    <item>
+      <title>[MSFT Bullish (+0.41)] Microsoft Stock (MSFT) Opinions on Bank of America Price Target Upgrade</title>
+      <link>https://www.quiverquant.com/news/Microsoft+Stock+%28MSFT%29+Opinions+on+Bank+of+America+Price+Target+Upgrade</link>
+      <guid isPermaLink="false">0c258c6fc2908c87cfabed9a79da9085740bf4f91adb715bebba582a6aa297d0</guid>
+      <pubDate>Mon, 14 Sep 2026 14:03:58 +0000</pubDate>
+      <source>Quiver Quantitative</source>
+      <category>MSFT Bullish (+0.41)</category>
+      <description>Sentiment: MSFT Bullish (+0.41)
+
+Bank of America upgraded Microsoft's (MSFT) price target to $600, fueling optimism driven by Azure's growth and Copilot's momentum, with over 30 million paid seats. Discussions highlight Microsoft's strong cash flow, enterprise software strength, and its partnership with OpenAI as key differentiators, though some caution about high valuations. The article also details recent insider trading, congressional stock transactions, institutional holdings, government contracts, and analyst ratings for MSFT.</description>
+    </item>
+    <item>
+      <title>[NVDA Bearish (-0.27)] ServiceNow Stock Rises as the SaaS-Pocalypse Fear Reverses Course</title>
+      <link>https://www.benzinga.com/trading-ideas/movers/26/09/61765026/servicenow-stock-rises-as-the-saas-pocalypse-fear-reverses-course</link>
+      <guid isPermaLink="false">559daf7708538f7f5e287912c23aaa54481bf05f09b913f0854317450d701547</guid>
+      <pubDate>Mon, 14 Sep 2026 13:47:35 +0000</pubDate>
+      <source>Benzinga</source>
+      <category>NVDA Bearish (-0.27)</category>
+      <description>Sentiment: NVDA Bearish (-0.27)
+
+ServiceNow (NYSE: NOW) stock is trading higher as fears of an "AI SaaS-pocalypse" recede. Originally, concerns arose that agentic AI would disrupt traditional software models by cannibalizing seat-based spending. However, recent calls from AI executives like Anthropic's Dario Amodei and OpenAI's Sam Altman for a more cautious pace of AI development are being interpreted by investors as reduced near-term disruption risk for established enterprise software platforms such as ServiceNow.</description>
+    </item>
+    <item>
+      <title>[NVDA Bullish (+0.40)] Nvidia expands CUDA-Q platform to support fault-tolerant quantum processors</title>
+      <link>https://siliconangle.com/2026/09/14/nvidia-expands-cuda-q-platform-to-support-fault-tolerant-quantum-processors/</link>
+      <guid isPermaLink="false">51ce52cb3c08eeb9dd3f0b8e94bfc6453a2dd92f5c50bf2fbdcc6c9205a3f14e</guid>
+      <pubDate>Mon, 14 Sep 2026 13:11:48 +0000</pubDate>
+      <source>SiliconANGLE</source>
       <category>NVDA Bullish (+0.40)</category>
       <description>Sentiment: NVDA Bullish (+0.40)
 
-Piper Sandler initiated coverage on Nvidia (NVDA) with an Overweight rating and a $300 price target, suggesting a 34% upside. The firm views Nvidia as an AI compute leader, controlling 80% of the market by value, and estimates it trades at just 14 times fiscal 2028 earnings. However, this bullish outlook heavily depends on Nvidia achieving Piper's aggressive growth forecasts of a 47% CAGR for revenue and earnings through FY30E.</description>
+Nvidia has expanded its open-source CUDA-Q platform with a new orchestration layer called CUDA-Q Logical, aimed at accelerating the development of fault-tolerant quantum systems. This new capability provides a programmable environment for simulating and testing these complex systems, allowing developers to optimize configurations before hardware setup. Early users like Iceberg Quantum and Fermilab have already demonstrated significant reductions in development time and more efficient designs for logical qubits using CUDA-Q Logical.</description>
     </item>
     <item>
-      <title>[NVDA Bullish (+0.34)] Applied Materials using AI to speed chip materials discovery, Japan chief says</title>
-      <link>https://asia.nikkei.com/business/tech/semiconductors/applied-materials-using-ai-to-speed-chip-materials-discovery-japan-chief-says</link>
-      <guid isPermaLink="false">16ed50ba7f61bac2180c42f9b3aa239937415f6dc527d5f85b17c0c7e356e40f</guid>
-      <pubDate>Sun, 13 Sep 2026 18:45:42 +0000</pubDate>
-      <source>Nikkei Asia</source>
+      <title>[AMZN Neutral (-0.10)] Royal Caribbean Cruises vs. Walmart: Which Consumer Stock Is a Better Buy in 2026?</title>
+      <link>https://www.fool.com/coverage/better-buy/2026/09/14/royal-caribbean-cruises-vs-walmart-which-consumer-stock-is-a-better-buy-in-2026/</link>
+      <guid isPermaLink="false">a8d760791c1fd70a63d3bee38af51db6b3e3b7bb07ebf41a271a9d2e39e568a1</guid>
+      <pubDate>Mon, 14 Sep 2026 13:11:14 +0000</pubDate>
+      <source>The Motley Fool</source>
+      <category>AMZN Neutral (-0.10)</category>
+      <description>Sentiment: AMZN Neutral (-0.10)
+
+This article compares Royal Caribbean Cruises (RCL) and Walmart (WMT) as investment options for 2026, highlighting their financial performance, risk profiles, and valuation metrics. It concludes by recommending Royal Caribbean due to its strong growth projections, record bookings, and clear forward visibility, despite Walmart's defensive strength and e-commerce momentum.</description>
+    </item>
+    <item>
+      <title>[AAPL Neutral (+0.10), MSFT Bullish (+0.50)] Apple vs. Microsoft: This Is the Magnificent Seven Stock I’d Buy Today</title>
+      <link>https://247wallst.com/investing/2026/09/14/apple-vs-microsoft-this-is-the-magnificent-seven-stock-id-buy-today/</link>
+      <guid isPermaLink="false">93abece1ccd47cf0e6fe12528e20e6da8be275bc80ed3cce21a515322a8d2dda</guid>
+      <pubDate>Mon, 14 Sep 2026 13:00:40 +0000</pubDate>
+      <source>24/7 Wall St.</source>
+      <category>AAPL Neutral (+0.10), MSFT Bullish (+0.50)</category>
+      <description>Sentiment: AAPL Neutral (+0.10), MSFT Bullish (+0.50)
+
+This article compares Apple and Microsoft's recent quarterly performances, highlighting key financial metrics and strategic differences. While Apple reported strong iPhone sales, a portion of its gross margin came from one-time tariff refunds, making Microsoft's growth, particularly in Azure, appear cleaner. The author ultimately favors Microsoft due to its clearer enterprise AI monetization story, lower P/E ratio, and significant commercial backlog compared to Apple's higher valuation and reliance on product cycles.</description>
+    </item>
+    <item>
+      <title>[NVDA Bearish (-0.26)] Acadia Realty Trust completes $119M in Q3 retail acquisitions</title>
+      <link>https://www.streetinsider.com/Corporate+News/Acadia+Realty+Trust+completes+$119M+in+Q3+retail+acquisitions/27055799.html</link>
+      <guid isPermaLink="false">1a657c9b0a92bfd86e317ca5003504f21fc4371fb9dd08e1f17112c76214cc69</guid>
+      <pubDate>Mon, 14 Sep 2026 12:27:34 +0000</pubDate>
+      <source>StreetInsider</source>
+      <category>NVDA Bearish (-0.26)</category>
+      <description>Sentiment: NVDA Bearish (-0.26)
+
+Acadia Realty Trust (NYSE: AKR) announced $119 million in street retail acquisitions during the third quarter, adding properties in New York, Connecticut, and California. These acquisitions contribute to a year-to-date total of $742 million, and the company expects to meet its annual target for street retail acquisitions. Acadia also reported signing 12 new leases, representing $4.8 million in annualized base rent, with double-digit cash leasing spreads.</description>
+    </item>
+    <item>
+      <title>[NVDA Bearish (-0.34)] Micron Technology Shares Fall 5.2% as Semiconductor Stocks Decline</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/micron-technology-shares-fall-5-115919941.html</link>
+      <guid isPermaLink="false">772d023b4dc47a8d7ea9b0dc39734098e82520f0262abbe29f9961ca2277492f</guid>
+      <pubDate>Mon, 14 Sep 2026 12:14:50 +0000</pubDate>
+      <source>Yahoo Finance</source>
+      <category>NVDA Bearish (-0.34)</category>
+      <description>Sentiment: NVDA Bearish (-0.34)
+
+Micron Technology (MU) shares dropped 5.2% in pre-market trading, contributing to a broader decline in semiconductor stocks. This downturn is attributed to renewed debates over AI development pace, potential semiconductor tariffs by the Trump administration, and an upcoming patent lawsuit. Investors are also anticipating Micron's fiscal fourth-quarter results on September 30, 2026.</description>
+    </item>
+    <item>
+      <title>[NVDA Bearish (-0.26)] AMD Shares Fall 5.6% as AI Development Debate Weighs on Semiconductor Stocks</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amd-shares-fall-5-6-120252089.html</link>
+      <guid isPermaLink="false">ca679b033dfe16c416efab0a23629fa923f1cedf51977df4089995bcac68d846</guid>
+      <pubDate>Mon, 14 Sep 2026 12:02:00 +0000</pubDate>
+      <source>Yahoo Finance</source>
+      <category>NVDA Bearish (-0.26)</category>
+      <description>Sentiment: NVDA Bearish (-0.26)
+
+Advanced Micro Devices (AMD) shares dropped 5.6% in pre-market trading due to a broader decline in semiconductor stocks. This decline was triggered by calls from US technology executives for a slower pace of AI development, impacting investor assessment of future infrastructure spending and demand for semiconductor products. The weakness was also influenced by higher Treasury yields and a general selling pressure across AI-linked chip and technology stocks.</description>
+    </item>
+    <item>
+      <title>[MSFT Neutral (+0.14), NVDA Bearish (-0.42)] Chip stocks down: AMD, Nvidia, Intel, and Sandisk lead market selloff after AI bosses call for a pause</title>
+      <link>https://www.fastcompany.com/91606821/chip-stocks-down-today-amd-nvidia-intel-sandisk-ai-pause-fears</link>
+      <guid isPermaLink="false">819f4ab45c8ea7ef2823ac1cafcc8042e89581183ff43df346766e41be7d8c8d</guid>
+      <pubDate>Mon, 14 Sep 2026 11:32:50 +0000</pubDate>
+      <source>Fast Company</source>
+      <category>MSFT Neutral (+0.14), NVDA Bearish (-0.42)</category>
+      <description>Sentiment: MSFT Neutral (+0.14), NVDA Bearish (-0.42)
+
+Shares of major semiconductor companies like AMD, Intel, TSMC, and Nvidia fell after AI leaders, including Anthropic CEO Dario Amodei, OpenAI's Sam Altman, and Microsoft's Satya Nadella, called for a slowdown in AI development due to safety concerns. These leaders fear AI could reach a point of "recursive self-improvement" making it difficult for humans to control. The market selloff reflects investor reaction to these warnings.</description>
+    </item>
+    <item>
+      <title>[NVDA Bullish (+0.42)] 3 Reasons to Sell PNC and 1 Stock to Buy Instead</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-pnc-1-112330220.html</link>
+      <guid isPermaLink="false">a19508f825f5e74bdefab27c07d2f305cdec216fd11fc5df23faacbca827a2e8</guid>
+      <pubDate>Mon, 14 Sep 2026 11:24:23 +0000</pubDate>
+      <source>Yahoo Finance</source>
+      <category>NVDA Bullish (+0.42)</category>
+      <description>Sentiment: NVDA Bullish (+0.42)
+
+This article analyzes PNC Financial Services Group, advising investors to sell despite its recent outperformance. The author highlights three main concerns: mediocre net interest income growth, a weak net interest margin, and unimpressive EPS growth. The article concludes by suggesting superior alternative stocks to consider.</description>
+    </item>
+    <item>
+      <title>[NVDA Bullish (+0.25)] The Zacks Analyst Blog Highlights Amkor Technology, Ultra Clean, FormFactor, Taiwan Semiconducto and NVIDIA</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amkor-100600528.html</link>
+      <guid isPermaLink="false">ed5ab6dabe796d9333fca60b4ac283757d4f4b47851c36998d9bb380f6bd4596</guid>
+      <pubDate>Mon, 14 Sep 2026 10:08:18 +0000</pubDate>
+      <source>Yahoo Finance</source>
+      <category>NVDA Bullish (+0.25)</category>
+      <description>Sentiment: NVDA Bullish (+0.25)
+
+The Zacks Analyst Blog highlights Amkor Technology (AMKR), Ultra Clean Holdings (UCTT), FormFactor (FORM), Taiwan Semiconductor Manufacturing Co. Ltd. (TSM), and NVIDIA Corp. (NVDA) as top-ranked AI semiconductor equipment stocks. These companies are poised for significant growth due to the expanding AI infrastructure trade and increasing demand for semiconductor manufacturing equipment. The article details their strong financial outlook, robust estimate revisions, and considerable price upside potential.</description>
+    </item>
+    <item>
+      <title>[AAPL Bullish (+0.33), NVDA Bearish (-0.31)] Corning Launches Up to $2 Billion At-the-Market Program</title>
+      <link>https://intellectia.ai/news/stock/corning-launches-up-to-2-billion-atthemarket-program</link>
+      <guid isPermaLink="false">01cca4b32f79904747cbf752e63e705f6974fcc9e89390c6f382c15e85308685</guid>
+      <pubDate>Mon, 14 Sep 2026 09:07:37 +0000</pubDate>
+      <source>Intellectia AI</source>
+      <category>AAPL Bullish (+0.33), NVDA Bearish (-0.31)</category>
+      <description>Sentiment: AAPL Bullish (+0.33), NVDA Bearish (-0.31)
+
+Corning has announced an at-the-market program of up to $2 billion, causing investor concern about potential shareholder dilution and a premarket stock drop of over 7%. Despite this, Corning's stock has surged approximately 91% year-to-date due to strong AI infrastructure demand and partnerships, with further boosts expected from Apple's new foldable iPhone. While retail sentiment dipped, it remains bullish, reflecting continued market interest in Corning's growth potential.</description>
+    </item>
+    <item>
+      <title>[MSFT Bullish (+0.24)] Microsoft sets limits for future AI models as industry throttles frontier development</title>
+      <link>https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html</link>
+      <guid isPermaLink="false">8e5f61c1e049a8be87c3234b3451fbb1899032c1bb2b3a0bb68fcac64f782437</guid>
+      <pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
+      <source>CNBC</source>
+      <category>MSFT Bullish (+0.24)</category>
+      <description>Sentiment: MSFT Bullish (+0.24)
+
+Microsoft has introduced a provisional code of conduct to set limits on its future AI models, aiming to be seen as a responsible actor in the AI space. This move comes after industry leaders like Anthropic and OpenAI discussed slowing AI development, and amid growing concerns from researchers about the rapid evolution of AI. Microsoft's guidelines prohibit models from engaging in activities like weapons manufacturing or creating sexually explicit content, and emphasize that AI should serve human judgment and autonomy.</description>
+    </item>
+    <item>
+      <title>[AMZN Bullish (+0.30)] Worldly Partners Management LLC Has $40.48 Million Holdings in Costco Wholesale Corporation $COST</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-worldly-partners-management-llc-has-4048-million-holdings-in-costco-wholesale-corporation-cost-2026-09-14/</link>
+      <guid isPermaLink="false">2f836f566cca7dde5a2f8374829575e4d3ac7eb4bda2c373bbcdd21cac5baa97</guid>
+      <pubDate>Mon, 14 Sep 2026 08:55:34 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>AMZN Bullish (+0.30)</category>
+      <description>Sentiment: AMZN Bullish (+0.30)
+
+Worldly Partners Management LLC reduced its stake in Costco Wholesale Corporation by 13.2% in the second quarter, selling 6,606 shares, but still holds 43,268 shares valued at approximately $40.48 million, making it their second-largest holding. Despite the reduction, institutional ownership of Costco remains high at 68.48%, and analysts generally rate the stock as a "Moderate Buy" with an average price target of $1,056.03. Costco shares recently opened at $904.77, below their 12-month high, and trade at a P/E ratio of 45.51, while the company also pays a quarterly dividend of $1.47.</description>
+    </item>
+    <item>
+      <title>[NVDA Bullish (+0.34)] Tidal Investments LLC Buys 5,419 Shares of SiTime Corporation $SITM</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-tidal-investments-llc-buys-5419-shares-of-sitime-corporation-sitm-2026-09-14/</link>
+      <guid isPermaLink="false">91603bc6651030c498b7a393c9cb4acb63b91528090f4f37d5f8a7dbdc6b537a</guid>
+      <pubDate>Mon, 14 Sep 2026 08:35:46 +0000</pubDate>
+      <source>MarketBeat</source>
       <category>NVDA Bullish (+0.34)</category>
       <description>Sentiment: NVDA Bullish (+0.34)
 
-Applied Materials is leveraging artificial intelligence to accelerate the discovery of new materials for the semiconductor industry, as traditional chip miniaturization methods reach their limits. The company is actively seeking Japanese partners and talent to foster innovation in this critical area. This move highlights the growing reliance on AI to overcome manufacturing challenges and drive future advancements in chip technology.</description>
+Tidal Investments LLC increased its stake in SiTime Corporation by 231.3% in the second quarter, acquiring an additional 5,419 shares. SiTime reported strong quarterly results with revenue up 126.5% year-over-year and EPS beating estimates, leading analysts to maintain a "Buy" consensus with an average price target of $761.25. However, the company faces risks from its high P/E ratio of 1,297 and significant insider selling, including the CEO's sale of 12,000 shares.</description>
     </item>
     <item>
-      <title>[MSFT Bullish (+0.33), NVDA Bullish (+0.42)] Goldman Sachs Says AI Is Driving Half of S&amp;P 500 Earnings Growth. That Number Cuts Both Ways.</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html</link>
-      <guid isPermaLink="false">5b2d58e937c8041c8617d9d093c281eb4c619b4c0334d3412c7ba6aafdbbdaca</guid>
-      <pubDate>Sun, 13 Sep 2026 18:01:13 +0000</pubDate>
-      <source>Yahoo Finance</source>
-      <category>MSFT Bullish (+0.33), NVDA Bullish (+0.42)</category>
-      <description>Sentiment: MSFT Bullish (+0.33), NVDA Bullish (+0.42)
+      <title>[AAPL Bullish (+0.29)] Apple Stock Forecast: Can AAPL Break $329 and Retest Its Record High?</title>
+      <link>https://www.fxleaders.com/news/2026/09/14/apple-stock-forecast-aapl-price-target/</link>
+      <guid isPermaLink="false">005b3e303ab2d544fdb9bebbd86c38f3791545c7c5ba96cdb9dd40f2a955b964</guid>
+      <pubDate>Mon, 14 Sep 2026 07:53:12 +0000</pubDate>
+      <source>FXLeaders</source>
+      <category>AAPL Bullish (+0.29)</category>
+      <description>Sentiment: AAPL Bullish (+0.29)
 
-Goldman Sachs reports that AI investment spending accounts for roughly half of the S&amp;P 500's earnings growth, largely driven by a few hyperscale buyers like Microsoft and suppliers like NVIDIA and Broadcom. While this indicates strong performance, it also highlights a concentration risk: if these key players reduce their AI capital expenditures, overall index earnings growth could significantly slow. Despite a seemingly healthy market with compressed P/E multiples, the reliance on a single capital spending cycle for much of the growth suggests a balanced rather than overwhelmingly bullish outlook.</description>
+Apple Inc. (AAPL) is trading around $326.57, showing a moderately bullish trend and acting as a safe haven amid a tech sector sell-off, despite cautious Q4 guidance. The company, now led by new CEO John Ternus, recently launched new products including the foldable iPhone Duo, which has raised some analyst concerns about pricing and margins. The upcoming Q4 earnings report will be closely watched for insights into Apple's future direction and its ability to challenge its record high.</description>
     </item>
     <item>
-      <title>[AAPL Neutral (-0.13)] PayPal Stock Is Down But Is the Company Broken?</title>
-      <link>https://www.stl.news/paypal-stock-is-down-but-is-the-company-broken/</link>
-      <guid isPermaLink="false">24ed173dd8342972e915db79dcfec0113e9350dc81f74270c0f3f4652b92d0e5</guid>
-      <pubDate>Sun, 13 Sep 2026 13:26:13 +0000</pubDate>
-      <source>STL.News</source>
-      <category>AAPL Neutral (-0.13)</category>
-      <description>Sentiment: AAPL Neutral (-0.13)
-
-PayPal's stock has experienced a significant decline from its pandemic-era highs, leading investors to question its future growth and competitive position amidst new threats like AI and increased competition from other tech giants. Despite the stock's poor performance, the company remains profitable, generates billions in free cash flow, and is actively returning capital to shareholders through buybacks and dividends. The article explores whether PayPal's current valuation represents a potential turnaround opportunity or if its strategic and competitive challenges will lead to further decline.</description>
-    </item>
-    <item>
-      <title>[MSFT Neutral (+0.13), NVDA Neutral (+0.13)] Sundar Pichai Says Alphabet's Cloud Backlog Hit $514 Billion After 82% Revenue Growth Last Quarter. Is Google Cloud Becoming a Bigger Growth Driver Than Search?</title>
-      <link>https://www.fool.com/investing/2026/09/13/sundar-pichai-alphabets-backlog-514-billion/</link>
-      <guid isPermaLink="false">6144f9a6ddaade637b02bc0a6fa6eac81ab5c664a89efa72712eeee9f610505a</guid>
-      <pubDate>Sun, 13 Sep 2026 12:50:40 +0000</pubDate>
-      <source>The Motley Fool</source>
-      <category>MSFT Neutral (+0.13), NVDA Neutral (+0.13)</category>
-      <description>Sentiment: MSFT Neutral (+0.13), NVDA Neutral (+0.13)
-
-Alphabet's Google Cloud reported an 82% year-over-year revenue growth in Q2 2026, with its backlog reaching $514 billion, exceeding the company's trailing 12-month revenue. While Search currently remains Alphabet's primary revenue and profit driver, the substantial growth and backlog in Google Cloud suggest it is poised to become the largest long-term growth engine, as only a small percentage of overall enterprise workloads have shifted to the cloud. CEO Sundar Pichai emphasizes the significant growth potential in both Search, through AI integrations, and Cloud, indicating a long runway for both segments.</description>
-    </item>
-    <item>
-      <title>[MSFT Bullish (+0.22)] General Dynamics Corporation $GD Shares Sold by Corient Private Wealth LP</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-general-dynamics-corporation-gd-shares-sold-by-corient-private-wealth-lp-2026-09-13/</link>
-      <guid isPermaLink="false">050aa444dd97a75e647b484b0558df6ab14fb003bbd4da69060b583b79cb17f7</guid>
-      <pubDate>Sun, 13 Sep 2026 08:49:55 +0000</pubDate>
+      <title>[MSFT Neutral (+0.12), AMZN Bullish (+0.32)] Brightwater Advisory LLC Takes Position in Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-brightwater-advisory-llc-takes-position-in-amazoncom-inc-amzn-2026-09-14/</link>
+      <guid isPermaLink="false">10ab70e0ea2d7c0338a5be517bf3f2e2904ac3be1ad470a5203bfc92ec5e801e</guid>
+      <pubDate>Mon, 14 Sep 2026 07:43:34 +0000</pubDate>
       <source>MarketBeat</source>
-      <category>MSFT Bullish (+0.22)</category>
-      <description>Sentiment: MSFT Bullish (+0.22)
+      <category>MSFT Neutral (+0.12), AMZN Bullish (+0.32)</category>
+      <description>Sentiment: MSFT Neutral (+0.12), AMZN Bullish (+0.32)
 
-Corient Private Wealth LP reduced its stake in General Dynamics Corporation by 22.1% in the second quarter, selling 40,576 shares but still holding 142,773 shares valued at over $50 million. Despite this, institutional investors collectively own 86.14% of the company, which recently exceeded quarterly earnings expectations with strong revenue growth. Analysts maintain a "Moderate Buy" rating, and General Dynamics continues to pay a quarterly dividend.</description>
+Brightwater Advisory LLC has acquired a new stake of 2,859 shares in Amazon.com, Inc. (NASDAQ:AMZN), valued at approximately $681,000, making it their 21st largest position. Several other institutional investors also adjusted their holdings in Amazon during the latest quarter. The article also highlights positive sentiment around Amazon's AWS, its partnership with Qualcomm for AI chips, and the expansion of its AI products and drone delivery services.</description>
     </item>
     <item>
-      <title>[AMZN Bullish (+0.44)] Valley Forge Investment Consultants Inc. ADV Invests $576,000 in Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-valley-forge-investment-consultants-inc-adv-invests-576000-in-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">acdff30c4c6d4172a9c243ea0cf7867605dd4a4db726faeffbc94afc942d0fd6</guid>
-      <pubDate>Sun, 13 Sep 2026 08:48:00 +0000</pubDate>
+      <title>[MSFT Neutral (+0.15), AMZN Bullish (+0.50)] HS Management Partners LLC Buys New Position in Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-hs-management-partners-llc-buys-new-position-in-amazoncom-inc-amzn-2026-09-14/</link>
+      <guid isPermaLink="false">fa48671117ba89db3095b49851585260ea408285564ee868d32bca800f4a3379</guid>
+      <pubDate>Mon, 14 Sep 2026 07:43:34 +0000</pubDate>
       <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.44)</category>
-      <description>Sentiment: AMZN Bullish (+0.44)
+      <category>MSFT Neutral (+0.15), AMZN Bullish (+0.50)</category>
+      <description>Sentiment: MSFT Neutral (+0.15), AMZN Bullish (+0.50)
 
-Valley Forge Investment Consultants Inc. ADV has initiated a new position in Amazon.com, Inc. (NASDAQ:AMZN), purchasing 2,415 shares valued at $576,000, making it their 20th largest holding. Amazon continues to receive strong analyst support with a "Moderate Buy" consensus and an average price target of $323.26, following positive quarterly earnings that surpassed expectations. Insiders, including CEO Andy Jassy and SVP David Zapolsky, have sold shares under pre-arranged trading plans.</description>
+HS Management Partners LLC has purchased a new position of 68,740 shares in Amazon.com, Inc. (NASDAQ:AMZN), valued at approximately $16.38 million, making it their second-largest holding. Other institutional investors also made significant purchases of Amazon shares during the second quarter. Analyst ratings for AMZN are predominantly "Buy," with a consensus "Moderate Buy" rating and a target price of $323.26.</description>
     </item>
     <item>
-      <title>[AMZN Bullish (+0.31)] UNIVEST FINANCIAL Corp Purchases New Shares in Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-univest-financial-corp-purchases-new-shares-in-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">524f5b82c9677718e52ac1201485f2dbcd79e90ecd5d5b22f7ad2989ed6b315f</guid>
-      <pubDate>Sun, 13 Sep 2026 08:42:08 +0000</pubDate>
+      <title>[AMZN Bullish (+0.41)] Investmark Advisory Group LLC Purchases New Position in Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-investmark-advisory-group-llc-purchases-new-position-in-amazoncom-inc-amzn-2026-09-14/</link>
+      <guid isPermaLink="false">bb8d5ab1d4a501655136df29e7471c0c59406a336f93eabd19bbff117e53cbc4</guid>
+      <pubDate>Mon, 14 Sep 2026 07:43:34 +0000</pubDate>
       <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.31)</category>
-      <description>Sentiment: AMZN Bullish (+0.31)
+      <category>AMZN Bullish (+0.41)</category>
+      <description>Sentiment: AMZN Bullish (+0.41)
 
-UNIVEST FINANCIAL Corp has acquired a new position in Amazon.com, Inc. (NASDAQ:AMZN), purchasing over 269,000 shares valued at approximately $64 million, making it their 9th largest holding. Other institutional investors have also increased their stakes in Amazon, with the company's stock seeing strong analyst ratings and positive sentiment around its AWS segment and AI initiatives. However, concerns about capital spending for AI infrastructure and operational risks like a recent Prime Air accident were also noted.</description>
+Investmark Advisory Group LLC has acquired a new position in Amazon.com, Inc., purchasing 6,308 shares valued at approximately $1.5 million in the second quarter. This move aligns with other institutional investors increasing their stakes in the e-commerce giant. Analysts maintain an "outperform" or "buy" rating on Amazon, with a consensus target price of $323.26, driven by strong AWS performance and strategic AI partnerships.</description>
     </item>
     <item>
-      <title>[AMZN Bullish (+0.45)] Citizens Financial Group Inc. RI Invests $163.64 Million in Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-citizens-financial-group-inc-ri-invests-16364-million-in-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">bdbbfe2e9355710bcf77594d008f46fe4ad88af759a0aa8d7fa153a9d11205cf</guid>
-      <pubDate>Sun, 13 Sep 2026 08:04:41 +0000</pubDate>
+      <title>[AMZN Bullish (+0.28)] 333,214 Shares in Amazon.com, Inc. $AMZN Purchased by First National Bank of Omaha</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-333214-shares-in-amazoncom-inc-amzn-purchased-by-first-national-bank-of-omaha-2026-09-14/</link>
+      <guid isPermaLink="false">94c8cfd525d46dbc7e3afd2cc764c5c315d65335e4643ef973308ba431420384</guid>
+      <pubDate>Mon, 14 Sep 2026 07:43:34 +0000</pubDate>
       <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.45)</category>
-      <description>Sentiment: AMZN Bullish (+0.45)
+      <category>AMZN Bullish (+0.28)</category>
+      <description>Sentiment: AMZN Bullish (+0.28)
 
-Citizens Financial Group Inc. RI has initiated a significant position in Amazon.com, Inc. by purchasing 686,590 shares valued at $163.64 million, making Amazon its eighth-largest holding. This investment comes as Amazon reported strong quarterly earnings, beating analyst estimates, and continues to focus on AI and AWS expansion. Despite potential risks from heavy capital spending and regulatory changes, analysts maintain a "Moderate Buy" rating for Amazon.</description>
+First National Bank of Omaha significantly increased its stake in Amazon.com, Inc. (NASDAQ:AMZN) during the second quarter, acquiring 333,214 shares valued at approximately $79.68 million. This acquisition makes Amazon its 8th largest holding, representing 2.2% of the bank's portfolio. The article also highlights positive sentiment around Amazon's AWS growth, a major partnership with Qualcomm for AI data-center chips, and enterprise validation of Amazon's AI products.</description>
     </item>
     <item>
-      <title>[AMZN Bullish (+0.32)] Meeder Advisory Services Inc. Acquires Shares of 227,784 Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-meeder-advisory-services-inc-acquires-shares-of-227784-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">37c2d59d3c5abd5976cb21197186c4c187fcf84d68321793f111a0344610e9cf</guid>
-      <pubDate>Sun, 13 Sep 2026 08:04:08 +0000</pubDate>
+      <title>[AMZN Bullish (+0.32)] Hurlow Wealth Management Group Inc. Acquires New Position in Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-hurlow-wealth-management-group-inc-acquires-new-position-in-amazoncom-inc-amzn-2026-09-14/</link>
+      <guid isPermaLink="false">63fba59c40449c6296dd4e2b53ecf81496dd5cf48ecdc4d4635bab0d75b9d277</guid>
+      <pubDate>Mon, 14 Sep 2026 07:43:34 +0000</pubDate>
       <source>MarketBeat</source>
       <category>AMZN Bullish (+0.32)</category>
       <description>Sentiment: AMZN Bullish (+0.32)
 
-Meeder Advisory Services Inc. has acquired 227,784 shares of Amazon.com, Inc. ($AMZN) valued at approximately $54.3 million, making it their 12th largest position and about 2% of their investment portfolio. This comes as Amazon shows strong quarterly results, driven by AWS and AI growth, with analysts maintaining a "Moderate Buy" rating despite concerns over heavy AI spending and rising debt. Other institutional investors have also adjusted their holdings in Amazon, which currently has 72.20% institutional ownership.</description>
+Hurlow Wealth Management Group Inc. has acquired a new position in Amazon.com, Inc. (NASDAQ:AMZN) during the second quarter, purchasing 4,827 shares valued at approximately $1.15 million. This makes Amazon.com the 24th largest position in Hurlow Wealth Management Group Inc.'s investment portfolio, representing 0.2% of its holdings. Other institutional investors have also made significant moves in Amazon.com stock, with the company currently holding a "Moderate Buy" rating from analysts and an average price target of $323.26.</description>
     </item>
     <item>
-      <title>[AMZN Bullish (+0.44)] Park State Asset Management Makes New Investment in Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-park-state-asset-management-makes-new-investment-in-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">34e3b2f01cc33178fe600a9129daa014734e0145a5539484abbe9ba5ffb037db</guid>
-      <pubDate>Sun, 13 Sep 2026 08:04:08 +0000</pubDate>
+      <title>[AMZN Neutral (+0.01)] 7,644 Shares in Amazon.com, Inc. $AMZN Acquired by Rayburn West Financial Services LLC</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-7644-shares-in-amazoncom-inc-amzn-acquired-by-rayburn-west-financial-services-llc-2026-09-14/</link>
+      <guid isPermaLink="false">1ad965b123751140a2af3191049cd0414523db41cbbffd0c3e7b4be4b14a9e38</guid>
+      <pubDate>Mon, 14 Sep 2026 07:43:34 +0000</pubDate>
       <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.44)</category>
-      <description>Sentiment: AMZN Bullish (+0.44)
+      <category>AMZN Neutral (+0.01)</category>
+      <description>Sentiment: AMZN Neutral (+0.01)
 
-Park State Asset Management has acquired 54,372 shares of Amazon.com, Inc. (NASDAQ:AMZN) worth approximately $13.0 million, making it their second-largest holding. Institutional ownership remains high at 72.2%, and analysts have a "Moderate Buy" rating with an average price target of $323.26, despite concerns about capital expenditure for AI expansion. Amazon reported strong quarterly results with revenue up 19.6% year-over-year and earnings of $5.75 per share, significantly beating estimates.</description>
+Rayburn West Financial Services LLC has acquired a new stake of 7,644 shares in Amazon.com, Inc. (NASDAQ:AMZN), valued at approximately $1,846,000, making it their 29th largest holding. Other institutional investors like Vanguard Group Inc., State Street Corp, Geode Capital Management LLC, Norges Bank, and Auto Owners Insurance Co also increased their positions in Amazon, while some insiders, including CEO Matthew Garman and CEO Andrew R. Jassy, sold shares. The article also covers Amazon's recent positive news regarding AWS, AI partnerships, and drone deliveries, along with analyst ratings and financial performance.</description>
     </item>
     <item>
-      <title>[AMZN Bullish (+0.48)] Focused Alpha LLC Takes Position in Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-focused-alpha-llc-takes-position-in-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">2f1bd5220391c4da03412129580147cb4f90cc7db674d0a18c3c05c3ee5fe8fb</guid>
-      <pubDate>Sun, 13 Sep 2026 08:04:08 +0000</pubDate>
+      <title>[AMZN Bullish (+0.27)] Bonfire Financial Buys Shares of 2,183 Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-bonfire-financial-buys-shares-of-2183-amazoncom-inc-amzn-2026-09-14/</link>
+      <guid isPermaLink="false">fa841aacd085c044a2abc55435b785b5aa6f71aaddaeef259b9046144dd74bdb</guid>
+      <pubDate>Mon, 14 Sep 2026 07:43:34 +0000</pubDate>
       <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.48)</category>
-      <description>Sentiment: AMZN Bullish (+0.48)
+      <category>AMZN Bullish (+0.27)</category>
+      <description>Sentiment: AMZN Bullish (+0.27)
 
-Focused Alpha LLC acquired a new stake of 39,475 shares in Amazon.com, Inc. (NASDAQ:AMZN) during the second quarter, valued at approximately $9.41 million, making it their 9th biggest position. Other institutional investors like Vanguard Group Inc. and State Street Corp also increased their holdings in Amazon, which now has 72.20% institutional ownership. Analysts maintain a "Moderate Buy" rating for Amazon, with a consensus target price of $323.26, driven by positive sentiment around AWS and AI partnerships despite risks related to capital spending and operations.</description>
+Bonfire Financial has acquired 2,183 shares of Amazon.com, Inc. (NASDAQ:AMZN) valued at approximately $520,000, making it their 19th largest holding. Other institutional investors have also adjusted their stakes in Amazon, while company insiders have sold a significant number of shares recently. Analysts maintain a "Moderate Buy" consensus rating for Amazon with a target price of $323.26, driven by positive sentiment around AWS and AI partnerships, despite concerns about capital spending and operational risks.</description>
     </item>
     <item>
-      <title>[NVDA Bullish (+0.23)] California State Teachers Retirement System Raises Stock Holdings in Kulicke and Soffa Industries, Inc. $KLIC</title>
+      <title>[AMZN Bullish (+0.32)] Act Two Investors LLC Makes New Investment in Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-act-two-investors-llc-makes-new-investment-in-amazoncom-inc-amzn-2026-09-14/</link>
+      <guid isPermaLink="false">d4a34d7b38c0973b70e2e64e1c96e5f5148693efd6f66ed9ba5b5d0a0f8acebf</guid>
+      <pubDate>Mon, 14 Sep 2026 07:43:34 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>AMZN Bullish (+0.32)</category>
+      <description>Sentiment: AMZN Bullish (+0.32)
+
+Act Two Investors LLC has made a significant new investment in Amazon.com, Inc. (NASDAQ:AMZN), acquiring 175,801 shares valued at approximately $41.9 million, making it their third-largest portfolio holding. This move comes as institutional investors collectively own about 72.2% of Amazon, despite recent insider sales. Analysts remain bullish on Amazon, citing strong quarterly results, AWS-driven AI investment, and an average "Moderate Buy" rating with a target price of $323.26.</description>
+    </item>
+    <item>
+      <title>[AMZN Bullish (+0.45)] Danske Bank A S Acquires Shares of 10,467,002 Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-danske-bank-a-s-acquires-shares-of-10467002-amazoncom-inc-amzn-2026-09-14/</link>
+      <guid isPermaLink="false">33e734fc78206e114425884592c5afb46a74bc7422c541f3ce1d6faf2b57a7db</guid>
+      <pubDate>Mon, 14 Sep 2026 07:43:34 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>AMZN Bullish (+0.45)</category>
+      <description>Sentiment: AMZN Bullish (+0.45)
+
+Danske Bank A S recently acquired a significant new position in Amazon.com, Inc. by purchasing over 10.4 million shares valued at approximately $2.49 billion, making AMZN its third-largest holding. This comes amidst other institutional investor activity, with some increasing and others decreasing their stakes, and recent insider selling by Amazon executives. Analysts generally maintain a "Moderate Buy" rating for Amazon, with an average price target of $323.26, driven by positive sentiment around AWS, a major Qualcomm partnership, and AI product validation, despite concerns about costs and operational risks.</description>
+    </item>
+    <item>
+      <title>[AMZN Neutral (+0.02)] Danica Pension Livsforsikringsaktieselskab Acquires New Shares in Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-danica-pension-livsforsikringsaktieselskab-acquires-new-shares-in-amazoncom-inc-amzn-2026-09-14/</link>
+      <guid isPermaLink="false">eaffddf3befb4ac8cb20f8c2a301b461fd99169e11539ab085e86ea11e72ff59</guid>
+      <pubDate>Mon, 14 Sep 2026 07:43:34 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>AMZN Neutral (+0.02)</category>
+      <description>Sentiment: AMZN Neutral (+0.02)
+
+Danica Pension Livsforsikringsaktieselskab has acquired a new stake in Amazon.com, Inc. (NASDAQ:AMZN), purchasing 1,086,800 shares valued at approximately $259 million during the second quarter. This investment makes Amazon its fifth-largest holding, comprising about 4.1% of its portfolio. The article also details recent analyst ratings and insider trading activity for Amazon.</description>
+    </item>
+    <item>
+      <title>[NVDA Bullish (+0.49)] Alecta Tjanstepension Omsesidigt Increases Stock Holdings in NVIDIA Corporation $NVDA</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-alecta-tjanstepension-omsesidigt-increases-stock-holdings-in-nvidia-corporation-nvda-2026-09-14/</link>
+      <guid isPermaLink="false">a91fa9e5eef857e16e9f740e6dbff6f8de495693e15716434730c07137678078</guid>
+      <pubDate>Mon, 14 Sep 2026 07:41:38 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>NVDA Bullish (+0.49)</category>
+      <description>Sentiment: NVDA Bullish (+0.49)
+
+Alecta Tjanstepension Omsesidigt increased its stake in NVIDIA Corporation by 1.4% in the second quarter, making NVIDIA its largest holding. The firm now owns 9,841,100 shares valued at approximately $1.97 billion. Other institutional investors have also adjusted their positions, and the article provides an overview of recent news, financial performance, and analyst ratings for NVIDIA.</description>
+    </item>
+    <item>
+      <title>[AAPL Bearish (-0.41)] Apple Inc. : Jefferies reiterates its Sell rating</title>
+      <link>https://www.marketscreener.com/news/apple-inc-jefferies-reiterates-its-sell-rating-ce785bdcdb8dff25</link>
+      <guid isPermaLink="false">49621d3de6b296fa7eff11e89fcdbf57bfbaba2b0d774e01f332433500233e7c</guid>
+      <pubDate>Mon, 14 Sep 2026 07:22:21 +0000</pubDate>
+      <source>marketscreener.com</source>
+      <category>AAPL Bearish (-0.41)</category>
+      <description>Sentiment: AAPL Bearish (-0.41)
+
+Jefferies analyst Edison Lee has reiterated a "Sell" rating on Apple Inc. (AAPL) stock, maintaining an unchanged target price of USD 263.66. This recommendation suggests a negative outlook on the company's shares. The report was published on September 14, 2026, at 03:27 am EDT.</description>
+    </item>
+    <item>
+      <title>[AMZN Bullish (+0.41)] Keenan LLC Makes New $711,000 Investment in Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-keenan-llc-makes-new-711000-investment-in-amazoncom-inc-amzn-2026-09-14/</link>
+      <guid isPermaLink="false">affd9fafd6dfbcde163a2a208d63dea3ea831279b72fc38c99ea391ea42e6767</guid>
+      <pubDate>Mon, 14 Sep 2026 07:17:46 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>AMZN Bullish (+0.41)</category>
+      <description>Sentiment: AMZN Bullish (+0.41)
+
+Keenan LLC has initiated a new $711,000 investment in Amazon.com, Inc. (NASDAQ:AMZN) by acquiring 2,985 shares during the second quarter. This move aligns with a broader trend of institutional investors and hedge funds holding 72.2% of the company's stock, while analysts maintain a "Moderate Buy" rating for Amazon. The article also details recent insider stock sales and highlights AWS growth and AI infrastructure partnerships as key catalysts for Amazon.</description>
+    </item>
+    <item>
+      <title>[AMZN Neutral (+0.14)] Bank of America Corp DE Takes $6.76 Billion Position in The Goldman Sachs Group, Inc. $GS</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-takes-676-billion-position-in-the-goldman-sachs-group-inc-gs-2026-09-14/</link>
+      <guid isPermaLink="false">e5febfa970f6ad9a1bf10dd126c378d9f6f16575cc10b542b9a2b6c9dbfecbb9</guid>
+      <pubDate>Mon, 14 Sep 2026 06:53:44 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>AMZN Neutral (+0.14)</category>
+      <description>Sentiment: AMZN Neutral (+0.14)
+
+Bank of America Corp DE has acquired a significant new position in The Goldman Sachs Group, Inc. (NYSE:GS) during the second quarter, purchasing over 6.68 million shares valued at approximately $6.76 billion. This makes Bank of America Corp DE a major institutional holder with 2.29% ownership of Goldman Sachs. The article also highlights recent positive news for Goldman Sachs, including technology investments, underwriting mandates, and increased dividends, alongside a review of analyst ratings and financial performance.</description>
+    </item>
+    <item>
+      <title>[MSFT Neutral (+0.14), AMZN Neutral (+0.13)] Morgan Stanley raises Target Hospitality PT on accretive contract win By Investing.com</title>
+      <link>https://ng.investing.com/news/stock-market-news/morgan-stanley-raises-target-hospitality-pt-on-accretive-contract-win-2693946</link>
+      <guid isPermaLink="false">61ded90401dd3c3cae6d77b949cf6b1d795a5ab69aee9652287abacc3aa0b744</guid>
+      <pubDate>Mon, 14 Sep 2026 06:45:13 +0000</pubDate>
+      <source>Investing.com Nigeria</source>
+      <category>MSFT Neutral (+0.14), AMZN Neutral (+0.13)</category>
+      <description>Sentiment: MSFT Neutral (+0.14), AMZN Neutral (+0.13)
+
+Morgan Stanley has increased its price target for Target Hospitality (TH) from $22 to $25 and reiterated its "overweight" rating. This upgrade follows Target Hospitality's recent contract win in West Texas and increased confidence in its near-term operational execution. The new price target is based on an increased FY 2027 adjusted EBITDA estimate of $319 million, significantly above consensus.</description>
+    </item>
+    <item>
+      <title>[AAPL Bullish (+0.42)] Apple Inc. : Receives a Buy rating from JP Morgan</title>
+      <link>https://www.marketscreener.com/news/apple-inc-receives-a-buy-rating-from-jp-morgan-ce785bdcdb88f527</link>
+      <guid isPermaLink="false">74be8589281872606bf498f62c2cb23ce9c6195b80b5a152b6340142050b3515</guid>
+      <pubDate>Mon, 14 Sep 2026 06:36:24 +0000</pubDate>
+      <source>marketscreener.com</source>
+      <category>AAPL Bullish (+0.42)</category>
+      <description>Sentiment: AAPL Bullish (+0.42)
+
+JP Morgan has maintained a "Buy" rating for Apple Inc., with analyst Samik Chatterjee reiterating his positive outlook on the stock. The target price for Apple Inc. shares remains set at USD 340. The company specializes in the design, manufacture, and marketing of computer hardware and music supports, with its iPhone brand accounting for over half of its telephone product sales.</description>
+    </item>
+    <item>
+      <title>[MSFT Neutral (+0.11), AMZN Neutral (+0.11)] Morgan Stanley raises Target Hospitality PT on accretive contract win</title>
+      <link>https://www.investing.com/news/stock-market-news/morgan-stanley-raises-target-hospitality-pt-on-accretive-contract-win-4898844</link>
+      <guid isPermaLink="false">bcba5b57899a8518df302da83e9327b8dec2c29ff811e8e5a49a19a76ab351fd</guid>
+      <pubDate>Mon, 14 Sep 2026 06:32:22 +0000</pubDate>
+      <source>Investing.com</source>
+      <category>MSFT Neutral (+0.11), AMZN Neutral (+0.11)</category>
+      <description>Sentiment: MSFT Neutral (+0.11), AMZN Neutral (+0.11)
+
+Morgan Stanley has increased its price target for Target Hospitality to $25 from $22, maintaining an "overweight" rating. This upgrade follows Target Hospitality's new 1,100-bed contract win in West Texas and increased confidence in the company's operational pipeline. The revised price target is based on an improved fiscal year 2027 adjusted EBITDA estimate of $319 million, significantly above consensus.</description>
+    </item>
+    <item>
+      <title>[NVDA Bullish (+0.39)] Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html</link>
+      <guid isPermaLink="false">dff0e5cc2bf7dc949f7ab410e24985f38dd9946b1a447e5f495f0ecd55f2a6b8</guid>
+      <pubDate>Sun, 13 Sep 2026 19:14:13 +0000</pubDate>
+      <source>Yahoo Finance</source>
+      <category>NVDA Bullish (+0.39)</category>
+      <description>Sentiment: NVDA Bullish (+0.39)
+
+Piper Sandler initiated coverage on Nvidia (NVDA) with an Overweight rating and a $300 price target, suggesting a 34% upside. The firm views Nvidia as an AI compute leader, controlling 80% of the market by value, and estimates it trades at just 14 times fiscal 2028 earnings. However, this bullish outlook heavily depends on Nvidia achieving Piper's aggressive growth forecasts of a 47% CAGR for revenue and earnings through FY30E.</description>
+    </item>
+    <item>
+      <title>[NVDA Bullish (+0.32)] Applied Materials using AI to speed chip materials discovery, Japan chief says</title>
+      <link>https://asia.nikkei.com/business/tech/semiconductors/applied-materials-using-ai-to-speed-chip-materials-discovery-japan-chief-says</link>
+      <guid isPermaLink="false">df6cc7a4297efd263d755424ae69107c9f63a8654f35a794f2752dd6a46afc6c</guid>
+      <pubDate>Sun, 13 Sep 2026 18:45:42 +0000</pubDate>
+      <source>Nikkei Asia</source>
+      <category>NVDA Bullish (+0.32)</category>
+      <description>Sentiment: NVDA Bullish (+0.32)
+
+Applied Materials is leveraging artificial intelligence to accelerate the discovery of new materials for the semiconductor industry, as traditional chip miniaturization methods reach their limits. The company is actively seeking Japanese partners and talent to foster innovation in this critical area. This move highlights the growing reliance on AI to overcome manufacturing challenges and drive future advancements in chip technology.</description>
+    </item>
+    <item>
+      <title>[MSFT Bullish (+0.31), NVDA Bullish (+0.43)] Goldman Sachs Says AI Is Driving Half of S&amp;P 500 Earnings Growth. That Number Cuts Both Ways.</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html</link>
+      <guid isPermaLink="false">0d7688a84d80942ab1151613c0aa7d999c409ed7ddb5b9436244f42975f55435</guid>
+      <pubDate>Sun, 13 Sep 2026 18:01:13 +0000</pubDate>
+      <source>Yahoo Finance</source>
+      <category>MSFT Bullish (+0.31), NVDA Bullish (+0.43)</category>
+      <description>Sentiment: MSFT Bullish (+0.31), NVDA Bullish (+0.43)
+
+Goldman Sachs reports that AI investment spending accounts for roughly half of the S&amp;P 500's earnings growth, largely driven by a few hyperscale buyers like Microsoft and suppliers like NVIDIA and Broadcom. While this indicates strong performance, it also highlights a concentration risk: if these key players reduce their AI capital expenditures, overall index earnings growth could significantly slow. Despite a seemingly healthy market with compressed P/E multiples, the reliance on a single capital spending cycle for much of the growth suggests a balanced rather than overwhelmingly bullish outlook.</description>
+    </item>
+    <item>
+      <title>[AAPL Neutral (-0.11)] PayPal Stock Is Down But Is the Company Broken?</title>
+      <link>https://www.stl.news/paypal-stock-is-down-but-is-the-company-broken/</link>
+      <guid isPermaLink="false">b9d168701ea0d8a4f4bee785780e4be7a9c9050e3093ef451c34bec0fc578c76</guid>
+      <pubDate>Sun, 13 Sep 2026 13:26:13 +0000</pubDate>
+      <source>STL.News</source>
+      <category>AAPL Neutral (-0.11)</category>
+      <description>Sentiment: AAPL Neutral (-0.11)
+
+PayPal's stock has experienced a significant decline from its pandemic-era highs, leading investors to question its future growth and competitive position amidst new threats like AI and increased competition from other tech giants. Despite the stock's poor performance, the company remains profitable, generates billions in free cash flow, and is actively returning capital to shareholders through buybacks and dividends. The article explores whether PayPal's current valuation represents a potential turnaround opportunity or if its strategic and competitive challenges will lead to further decline.</description>
+    </item>
+    <item>
+      <title>[MSFT Neutral (+0.11), NVDA Neutral (+0.10)] Sundar Pichai Says Alphabet's Cloud Backlog Hit $514 Billion After 82% Revenue Growth Last Quarter. Is Google Cloud Becoming a Bigger Growth Driver Than Search?</title>
+      <link>https://www.fool.com/investing/2026/09/13/sundar-pichai-alphabets-backlog-514-billion/</link>
+      <guid isPermaLink="false">d958e8efbd010e32f44ece5bcb19059a0319cdf08affd67cb803cf6021b683e6</guid>
+      <pubDate>Sun, 13 Sep 2026 12:50:40 +0000</pubDate>
+      <source>The Motley Fool</source>
+      <category>MSFT Neutral (+0.11), NVDA Neutral (+0.10)</category>
+      <description>Sentiment: MSFT Neutral (+0.11), NVDA Neutral (+0.10)
+
+Alphabet's Google Cloud reported an 82% year-over-year revenue growth in Q2 2026, with its backlog reaching $514 billion, exceeding the company's trailing 12-month revenue. While Search currently remains Alphabet's primary revenue and profit driver, the substantial growth and backlog in Google Cloud suggest it is poised to become the largest long-term growth engine, as only a small percentage of overall enterprise workloads have shifted to the cloud. CEO Sundar Pichai emphasizes the significant growth potential in both Search, through AI integrations, and Cloud, indicating a long runway for both segments.</description>
+    </item>
+    <item>
+      <title>[AAPL Bullish (+0.30), AMZN Bullish (+0.32)] WINTON GROUP Ltd Invests $1.50 Million in Target Hospitality Corp. $TH</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-invests-150-million-in-target-hospitality-corp-th-2026-09-13/</link>
+      <guid isPermaLink="false">62722b79e97a5a24cdc98ea8879cb9dbf7f5323633bd74306a7fc51c35dd525c</guid>
+      <pubDate>Sun, 13 Sep 2026 10:08:40 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>AAPL Bullish (+0.30), AMZN Bullish (+0.32)</category>
+      <description>Sentiment: AAPL Bullish (+0.30), AMZN Bullish (+0.32)
+
+WINTON GROUP Ltd has invested approximately $1.50 million in Target Hospitality Corp. (NASDAQ:TH) by acquiring 73,566 shares, representing a 0.07% stake in the company. Despite remaining unprofitable, Target Hospitality outperformed analyst revenue and EPS estimates in its latest quarterly report, with several hedge funds also adjusting their positions in the stock. Analysts generally maintain a "Moderate Buy" rating for Target Hospitality, with an average price target above its current market price.</description>
+    </item>
+    <item>
+      <title>[AAPL Neutral (+0.04), NVDA Neutral (+0.03)] Veraxa Biotech AG Stock Price: VRXA Stock Chart, Market Cap &amp; News Today</title>
+      <link>https://www.coingecko.com/en/stocks/veraxa-biotech-ag</link>
+      <guid isPermaLink="false">8b9ed51d67318a3fda0e887760cb22d232facc2a946f58ff7bd1affa12763edf</guid>
+      <pubDate>Sun, 13 Sep 2026 09:04:58 +0000</pubDate>
+      <source>CoinGecko</source>
+      <category>AAPL Neutral (+0.04), NVDA Neutral (+0.03)</category>
+      <description>Sentiment: AAPL Neutral (+0.04), NVDA Neutral (+0.03)
+
+Veraxa Biotech AG (VRXA) stock is currently trading at $1.63, down 1.2% today, with a 52-week range between $1.30 and $39.01. The company has no reported market cap, and its tokenized version, RVRXA, issued by Reality, also has no market cap and is not currently available for trading on listed exchanges. CoinGecko provides general information on VRXA's performance and tokenized aspects.</description>
+    </item>
+    <item>
+      <title>[MSFT Bullish (+0.24)] General Dynamics Corporation $GD Shares Sold by Corient Private Wealth LP</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-general-dynamics-corporation-gd-shares-sold-by-corient-private-wealth-lp-2026-09-13/</link>
+      <guid isPermaLink="false">1fcae0d6ff6754815173b67dfc03255abc01905fe5ee9fe284ecaeb0689468e1</guid>
+      <pubDate>Sun, 13 Sep 2026 08:49:55 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>MSFT Bullish (+0.24)</category>
+      <description>Sentiment: MSFT Bullish (+0.24)
+
+Corient Private Wealth LP reduced its stake in General Dynamics Corporation by 22.1% in the second quarter, selling 40,576 shares but still holding 142,773 shares valued at over $50 million. Despite this, institutional investors collectively own 86.14% of the company, which recently exceeded quarterly earnings expectations with strong revenue growth. Analysts maintain a "Moderate Buy" rating, and General Dynamics continues to pay a quarterly dividend.</description>
+    </item>
+    <item>
+      <title>[AMZN Bullish (+0.45)] Valley Forge Investment Consultants Inc. ADV Invests $576,000 in Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-valley-forge-investment-consultants-inc-adv-invests-576000-in-amazoncom-inc-amzn-2026-09-13/</link>
+      <guid isPermaLink="false">f30bae232983155f80f676456c6d6583c9c10e84784392610c36b54957676eff</guid>
+      <pubDate>Sun, 13 Sep 2026 08:48:00 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>AMZN Bullish (+0.45)</category>
+      <description>Sentiment: AMZN Bullish (+0.45)
+
+Valley Forge Investment Consultants Inc. ADV has initiated a new position in Amazon.com, Inc. (NASDAQ:AMZN), purchasing 2,415 shares valued at $576,000, making it their 20th largest holding. Amazon continues to receive strong analyst support with a "Moderate Buy" consensus and an average price target of $323.26, following positive quarterly earnings that surpassed expectations. Insiders, including CEO Andy Jassy and SVP David Zapolsky, have sold shares under pre-arranged trading plans.</description>
+    </item>
+    <item>
+      <title>[AMZN Bullish (+0.34)] UNIVEST FINANCIAL Corp Purchases New Shares in Amazon.com, Inc. $AMZN</title>
+      <link>https://www.marketbeat.com/instant-alerts/filing-univest-financial-corp-purchases-new-shares-in-amazoncom-inc-amzn-2026-09-13/</link>
+      <guid isPermaLink="false">681f31f93d61ca9049a18deb926a8be759ccefb08f206dd881b0e61f442f6772</guid>
+      <pubDate>Sun, 13 Sep 2026 08:42:08 +0000</pubDate>
+      <source>MarketBeat</source>
+      <category>AMZN Bullish (+0.34)</category>
+      <description>Sentiment: AMZN Bullish (+0.34)
+
+UNIVEST FINANCIAL Corp has acquired a new position in Amazon.com, Inc. (NASDAQ:AMZN), purchasing over 269,000 shares valued at approximately $64 million, making it their 9th largest holding. Other institutional investors have also increased their stakes in Amazon, with the company's stock seeing strong analyst ratings and positive sentiment around its AWS segment and AI initiatives. However, concerns about capital spending for AI infrastructure and operational risks like a recent Prime Air accident were also noted.</description>
+    </item>
+    <item>
+      <title>[NVDA Bullish (+0.22)] California State Teachers Retirement System Raises Stock Holdings in Kulicke and Soffa Industries, Inc. $KLIC</title>
       <link>https://www.marketbeat.com/instant-alerts/filing-california-state-teachers-retirement-system-raises-stock-holdings-in-kulicke-and-soffa-industries-inc-klic-2026-09-13/</link>
-      <guid isPermaLink="false">788c8d0363aac40513f8b79639e29a720ae740b33bb1881db911e94ba7ddd5a1</guid>
+      <guid isPermaLink="false">921ba277361ca9215aba93f652fa9abe13a39f6ab0961596cb041d1835557349</guid>
       <pubDate>Sun, 13 Sep 2026 08:01:20 +0000</pubDate>
       <source>MarketBeat</source>
-      <category>NVDA Bullish (+0.23)</category>
-      <description>Sentiment: NVDA Bullish (+0.23)
+      <category>NVDA Bullish (+0.22)</category>
+      <description>Sentiment: NVDA Bullish (+0.22)
 
 The California State Teachers Retirement System significantly increased its stake in Kulicke and Soffa Industries (NASDAQ:KLIC) by 12,902.6% in the second quarter, now owning 7.96 million shares valued at approximately $1.06 billion. This increase makes the system hold about 15.21% of the company's stock. Kulicke and Soffa Industries recently reported strong quarterly earnings, beating estimates with $1.20 EPS and 122.6% year-over-year revenue growth, while maintaining a "Moderate Buy" consensus rating from analysts.</description>
     </item>
     <item>
-      <title>[AMZN Bullish (+0.31)] Costco Wholesale Corporation $COST Shares Acquired by Saudi Central Bank</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-costco-wholesale-corporation-cost-shares-acquired-by-saudi-central-bank-2026-09-13/</link>
-      <guid isPermaLink="false">3390d44ec3502a88445d342a63feac31d39429064e2641adc3ae204691cb6e93</guid>
-      <pubDate>Sun, 13 Sep 2026 07:58:46 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.31)</category>
-      <description>Sentiment: AMZN Bullish (+0.31)
-
-Saudi Central Bank increased its stake in Costco Wholesale Corporation by 89.6% during the second quarter, bringing its total holdings to 31,056 shares valued at $29.05 million. This news comes amidst other institutional investors also adjusting their positions in Costco, and a mix of positive and neutral analyst sentiments regarding the company's sales, growth prospects, and stock valuation.</description>
-    </item>
-    <item>
-      <title>[MSFT Neutral (-0.14), AMZN Bullish (+0.34)] Week in review: Linux rootkit deployed on F5 BIG-IP APM devices, Cisco FMC bugs exploited</title>
+      <title>[MSFT Neutral (-0.15)] Week in review: Linux rootkit deployed on F5 BIG-IP APM devices, Cisco FMC bugs exploited</title>
       <link>https://www.helpnetsecurity.com/2026/09/13/week-in-review-linux-rootkit-deployed-on-f5-big-ip-apm-devices-cisco-fmc-bugs-exploited/</link>
-      <guid isPermaLink="false">0e20a4adfc001b4c2a045bf8c09f3f10304fb5e1e0cd1ebc0feb12e108c831bd</guid>
+      <guid isPermaLink="false">e3556cce05a03a9a49e109d4bb8cd1db23a878386b940c95fa9491071db80953</guid>
       <pubDate>Sun, 13 Sep 2026 07:55:04 +0000</pubDate>
       <source>Help Net Security</source>
-      <category>MSFT Neutral (-0.14), AMZN Bullish (+0.34)</category>
-      <description>Sentiment: MSFT Neutral (-0.14), AMZN Bullish (+0.34)
+      <category>MSFT Neutral (-0.15)</category>
+      <description>Sentiment: MSFT Neutral (-0.15)
 
 This week in review covers several significant cybersecurity events, including the deployment of a Linux rootkit on F5 BIG-IP APM devices and the exploitation of Cisco FMC bugs by nation-state actors. Other major topics include new AI-focused security tools, widespread data breaches affecting Trezor and Mathspace customers, and updates on actively exploited zero-day vulnerabilities in Chrome and N-able N-central.</description>
-    </item>
-    <item>
-      <title>[AMZN Bullish (+0.24)] 6,243 Shares in Amazon.com, Inc. $AMZN Purchased by Tortoise Investment Management LLC</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-6243-shares-in-amazoncom-inc-amzn-purchased-by-tortoise-investment-management-llc-2026-09-13/</link>
-      <guid isPermaLink="false">fbaeb856730a45191eda101c3f188e6972776e28506eecbbc8f3170cd008fd20</guid>
-      <pubDate>Sun, 13 Sep 2026 07:47:47 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.24)</category>
-      <description>Sentiment: AMZN Bullish (+0.24)
-
-Tortoise Investment Management LLC acquired a new stake of 6,243 shares in Amazon.com, Inc. (NASDAQ:AMZN) during the second quarter, valued at approximately $1,488,000. Other institutional investors also adjusted their positions, and 72.20% of Amazon's stock is currently owned by institutional investors. The article also highlights recent positive and negative news impacting Amazon, including AWS growth, AI partnerships, Prime Air expansion, and concerns about capital spending and regulatory risks.</description>
     </item>
     <item>
       <title>[MSFT Neutral (-0.12)] Integrated Wealth Concepts LLC Sells 9,830 Shares of Salesforce Inc. $CRM</title>
@@ -195,136 +547,59 @@ Tortoise Investment Management LLC acquired a new stake of 6,243 shares in Amazo
 Integrated Wealth Concepts LLC reduced its stake in Salesforce (NYSE:CRM) by 25.4% in the second quarter, selling 9,830 shares and retaining a significant holding valued at $4.53 million. Despite this sale, institutional ownership in Salesforce remains high at 80.43%, with other major firms increasing their positions. Salesforce reported strong financial results, including increased EPS and revenue, and analysts maintain a "Moderate Buy" rating with a target price of $267.12, driven by AI acquisitions and new initiatives.</description>
     </item>
     <item>
-      <title>[AMZN Bullish (+0.26)] Sigma Planning Corp Sells 50,984 Shares of Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-sigma-planning-corp-sells-50984-shares-of-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">89fd48f1aa70c056f17aec2c360c9ea57791d550ecfca8913b954b0f56a8e501</guid>
-      <pubDate>Sun, 13 Sep 2026 07:40:37 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.26)</category>
-      <description>Sentiment: AMZN Bullish (+0.26)
-
-Sigma Planning Corp reduced its stake in Amazon.com, Inc. by 14.6%, selling 50,984 shares and now holding 298,285 shares valued at $71.1 million. Despite this, institutional ownership remains high at 72.2%, with several other investors increasing their positions, while Amazon insiders have recently sold shares. Analysts maintain a "Moderate Buy" rating with a $323.26 price target, driven by AWS and AI expansion, though noting risks from capital spending.</description>
-    </item>
-    <item>
-      <title>[MSFT Neutral (+0.13), AMZN Bullish (+0.43)] MidFirst Bank Takes Position in Amazon.com, Inc. $AMZN</title>
+      <title>[MSFT Neutral (+0.13)] MidFirst Bank Takes Position in Amazon.com, Inc. $AMZN</title>
       <link>https://www.marketbeat.com/instant-alerts/filing-midfirst-bank-takes-position-in-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">b0b9bda93bd070930c7c8af0d3b4d5e6d9a2ebd952087fd39563631df68a8f16</guid>
+      <guid isPermaLink="false">0f5ede8bb3327eaae86f98c683fcac11ba752712000a02b73253b5ac230244ef</guid>
       <pubDate>Sun, 13 Sep 2026 07:38:37 +0000</pubDate>
       <source>MarketBeat</source>
-      <category>MSFT Neutral (+0.13), AMZN Bullish (+0.43)</category>
-      <description>Sentiment: MSFT Neutral (+0.13), AMZN Bullish (+0.43)
+      <category>MSFT Neutral (+0.13)</category>
+      <description>Sentiment: MSFT Neutral (+0.13)
 
 MidFirst Bank has acquired a new position in Amazon.com, Inc. (NASDAQ:AMZN) during the second quarter, purchasing 176,520 shares valued at approximately $42.07 million, making Amazon its fifth-largest holding. Other institutional investors have also adjusted their stakes in Amazon, which recently reported strong earnings, beating analyst estimates for EPS and revenue. Analysts maintain generally positive outlooks on AMZN, with several reiterating "buy" or "overweight" ratings and increasing price targets.</description>
     </item>
     <item>
-      <title>[AMZN Bullish (+0.48)] 52,350 Shares in Amazon.com, Inc. $AMZN Bought by Meeder Asset Management Inc.</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-52350-shares-in-amazoncom-inc-amzn-bought-by-meeder-asset-management-inc-2026-09-13/</link>
-      <guid isPermaLink="false">e716babaae63e31f3c9e9f2196996c9d75a9591f30e4ee6749c2e8155e8610b0</guid>
-      <pubDate>Sun, 13 Sep 2026 07:38:37 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.48)</category>
-      <description>Sentiment: AMZN Bullish (+0.48)
-
-Meeder Asset Management Inc. recently acquired 52,350 shares of Amazon.com, Inc. (NASDAQ:AMZN) worth approximately $12.5 million in the second quarter, contributing to institutional investors owning 72.2% of the company. Amazon reported strong quarterly results with revenues up 19.6% year-over-year and EPS significantly beating expectations, primarily driven by AWS and AI growth. Despite insider stock sales and capital-spending risks associated with AI infrastructure, analysts maintain a "Moderate Buy" rating for AMZN with an average target price of $323.26.</description>
-    </item>
-    <item>
-      <title>[AMZN Bullish (+0.41)] Grandfield &amp; Dodd LLC Invests $2.65 Million in Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-grandfield-dodd-llc-invests-265-million-in-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">2703c3493f894c7f5f850faf74f230b7976de9e646d5295274e04d894818da82</guid>
-      <pubDate>Sun, 13 Sep 2026 07:38:37 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.41)</category>
-      <description>Sentiment: AMZN Bullish (+0.41)
-
-Grandfield &amp; Dodd LLC has reportedly acquired a new stake of 11,132 shares in Amazon.com, Inc. valued at approximately $2.65 million during the second quarter. This investment is part of broader institutional activity, with other major firms like Vanguard Group Inc. and State Street Corp also adjusting their significant holdings in the e-commerce giant. The article also highlights recent insider selling activity and analyst ratings, with most analysts maintaining a "Buy" rating for Amazon.com, citing AWS's strong performance and AI initiatives as key drivers.</description>
-    </item>
-    <item>
-      <title>[AMZN Bullish (+0.46)] RHS Financial LLC Invests $1.51 Million in Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-rhs-financial-llc-invests-151-million-in-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">c4f4eacb1e9ef6575105ff9b2901127d15972b67495ea6960ff3cda2d36f5a93</guid>
-      <pubDate>Sun, 13 Sep 2026 07:38:37 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.46)</category>
-      <description>Sentiment: AMZN Bullish (+0.46)
-
-RHS Financial LLC recently initiated a new position in Amazon.com, Inc. (NASDAQ:AMZN) during the second quarter, purchasing 6,342 shares valued at approximately $1.51 million, making it 0.6% of their investment portfolio. Despite significant insider selling by CEO Andy Jassy and SVP David Zapolsky, analysts maintain a "Moderate Buy" rating with a consensus price target of $323.26. Amazon's strong quarterly revenue growth, impressive earnings beat, and strategic investments in AWS and AI are highlighted as key growth drivers, while cost management and operational risks are noted.</description>
-    </item>
-    <item>
-      <title>[AMZN Bullish (+0.32)] K.J. Harrison &amp; Partners Inc Invests $20.70 Million in Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-kj-harrison-partners-inc-invests-2070-million-in-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">088b9058f5a1c61a8a3bf76636c71b1013ff824c6965aa0faa642578a5a4898a</guid>
-      <pubDate>Sun, 13 Sep 2026 07:37:37 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.32)</category>
-      <description>Sentiment: AMZN Bullish (+0.32)
-
-K.J. Harrison &amp; Partners Inc has acquired a new stake of 86,856 shares in Amazon.com, Inc. (NASDAQ:AMZN) valued at approximately $20.70 million during the second quarter, making it their 5th largest holding. The article also details other institutional investor activity, recent analyst ratings, and insider stock transactions for Amazon.com, alongside key news impacting the company, including its AWS performance and partnerships.</description>
-    </item>
-    <item>
-      <title>[AMZN Bullish (+0.47)] Aegis Wealth Management LLC Takes Position in Amazon.com, Inc. $AMZN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-aegis-wealth-management-llc-takes-position-in-amazoncom-inc-amzn-2026-09-13/</link>
-      <guid isPermaLink="false">b88e9b30ebc20d83be29863564d354741bc79622644dd6c617c288f34d796268</guid>
-      <pubDate>Sun, 13 Sep 2026 07:08:37 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>AMZN Bullish (+0.47)</category>
-      <description>Sentiment: AMZN Bullish (+0.47)
-
-Aegis Wealth Management LLC has acquired a new stake in Amazon.com, Inc. (NASDAQ:AMZN) during the second quarter, purchasing 7,697 shares valued at approximately $1.84 million. This investment makes Amazon.com the 15th largest holding for Aegis Wealth Management, accounting for 0.9% of its portfolio. The article also details significant purchases by other institutional investors and recent insider selling activity, alongside a summary of Amazon.com's positive and negative news, analyst ratings, and financial performance.</description>
-    </item>
-    <item>
-      <title>[NVDA Bullish (+0.49)] Ahara Advisors LLC Grows Stock Holdings in NVIDIA Corporation $NVDA</title>
+      <title>[NVDA Bullish (+0.48)] Ahara Advisors LLC Grows Stock Holdings in NVIDIA Corporation $NVDA</title>
       <link>https://www.marketbeat.com/instant-alerts/filing-ahara-advisors-llc-grows-stock-holdings-in-nvidia-corporation-nvda-2026-09-13/</link>
-      <guid isPermaLink="false">d2eb32e3b95e084c1b5434769497d30644fdc6b53e344de672bff027dad9a1c7</guid>
+      <guid isPermaLink="false">8561ef4d54fb932e797adbf3a01d643cbef3aa0c2949e182e0c2dad4d1778469</guid>
       <pubDate>Sun, 13 Sep 2026 07:08:13 +0000</pubDate>
       <source>MarketBeat</source>
-      <category>NVDA Bullish (+0.49)</category>
-      <description>Sentiment: NVDA Bullish (+0.49)
+      <category>NVDA Bullish (+0.48)</category>
+      <description>Sentiment: NVDA Bullish (+0.48)
 
 Ahara Advisors LLC significantly increased its stake in NVIDIA Corporation by 89.5% in the second quarter, making it their third-largest holding. This move comes amidst a generally positive outlook for NVIDIA, driven by analyst upgrades, strong chip demand, and strategic partnerships, despite ongoing valuation debates and regulatory scrutiny. Several other institutional investors also adjusted their positions in NVIDIA, while the company continues with share buybacks and dividend payments.</description>
     </item>
     <item>
-      <title>[NVDA Bullish (+0.21)] Is Kroger a Buy After Its Latest Earnings Report?</title>
+      <title>[NVDA Bullish (+0.20)] Is Kroger a Buy After Its Latest Earnings Report?</title>
       <link>https://currently.att.yahoo.com/att/kroger-buy-latest-earnings-report-064102746.html</link>
-      <guid isPermaLink="false">63f74a026ea4c11738bc7133b1ebb92b00e74697bb739b8e1ac512f6c0574246</guid>
+      <guid isPermaLink="false">eff4840f848b6da30a339143ff3177c7d7ef3504f4a35fcfccd793fe7e29292b</guid>
       <pubDate>Sun, 13 Sep 2026 06:54:14 +0000</pubDate>
       <source>Currently.com</source>
-      <category>NVDA Bullish (+0.21)</category>
-      <description>Sentiment: NVDA Bullish (+0.21)
+      <category>NVDA Bullish (+0.20)</category>
+      <description>Sentiment: NVDA Bullish (+0.20)
 
 Kroger's latest quarterly report showed modest growth, with sales up 2% and a slight beat on adjusted EPS, while net income declined. Despite mixed results and trimmed full-year sales guidance, the company's commitment to increasing its dividend and continuing share repurchases makes it an appealing option for income investors. The impressive 20% rise in e-commerce sales also highlights Kroger's adaptation to modern shopping trends.</description>
     </item>
     <item>
-      <title>[NVDA Neutral (+0.13)] Advanced Micro Devices, Inc. (AMD)’s Halo Station Could Strengthen Its AI Position, but Near-Term Revenue Impact May Be Limited</title>
+      <title>[NVDA Neutral (+0.15)] Advanced Micro Devices, Inc. (AMD)’s Halo Station Could Strengthen Its AI Position, but Near-Term Revenue Impact May Be Limited</title>
       <link>https://ca.finance.yahoo.com/news/advanced-micro-devices-inc-amd-235430291.html</link>
-      <guid isPermaLink="false">695cafd56c55150c0e295063804d38ee3843afec4459c883086726a00012ad05</guid>
+      <guid isPermaLink="false">66864643588ffdcc265c300cdb8c6fb91fe9668e3633f1d9eb2981745c1c1b95</guid>
       <pubDate>Sun, 13 Sep 2026 05:38:42 +0000</pubDate>
       <source>Yahoo! Finance Canada</source>
-      <category>NVDA Neutral (+0.13)</category>
-      <description>Sentiment: NVDA Neutral (+0.13)
+      <category>NVDA Neutral (+0.15)</category>
+      <description>Sentiment: NVDA Neutral (+0.15)
 
 Advanced Micro Devices (AMD) has unveiled its Threadripper Halo Station, an AI-powered workstation designed to capitalize on the growing demand for local AI computing, positioning AMD against Nvidia's DGX Station. While this move could strengthen AMD's AI ecosystem and competitive standing, the Halo Station faces challenges related to software maturity, high cost, and a 2027 launch date, indicating that its revenue impact will be a long-term strategic opportunity rather than an immediate financial catalyst. Hedge fund interest in AMD has increased, with 164 funds holding stakes, though the company still faces stiff competition from Nvidia's established CUDA ecosystem.</description>
     </item>
     <item>
-      <title>[AAPL Bullish (+0.34), NVDA Bearish (-0.24)] Consumer Tech (Sep 7-11): Apple Launches First Foldable iPhone, XPeng Commissioned IRON Humanoid Robot Pr</title>
+      <title>[AAPL Bullish (+0.31)] Consumer Tech (Sep 7-11): Apple Launches First Foldable iPhone, XPeng Commissioned IRON Humanoid Robot Pr</title>
       <link>https://www.benzinga.com/markets/tech/26/09/61754574/consumer-tech-sep-7-11-apple-launches-first-foldable-iphone-xpeng-commissioned-iron-humanoid-robot-production-more</link>
-      <guid isPermaLink="false">63531384771bbb256b265a4aaccf6ff0da3350d936bfa094f0a57c8124baf743</guid>
+      <guid isPermaLink="false">fa854363fac4eb00df7299f4de41c9c76ea9ce89a8fcc67d092fdb1965bae768</guid>
       <pubDate>Sat, 12 Sep 2026 21:23:11 +0000</pubDate>
       <source>Benzinga</source>
-      <category>AAPL Bullish (+0.34), NVDA Bearish (-0.24)</category>
-      <description>Sentiment: AAPL Bullish (+0.34), NVDA Bearish (-0.24)
+      <category>AAPL Bullish (+0.31)</category>
+      <description>Sentiment: AAPL Bullish (+0.31)
 
 This article summarizes key developments in consumer tech from September 7-11, highlighting Apple's launch of a new foldable iPhone and Watch Series 12, and XPeng's commissioning of production lines for its IRON humanoid robot. Other major news includes escalating AI regulation talks, antitrust inquiries into NVIDIA and Fox/Roku deals, and earnings reports from Oracle, Copart, and Adobe. The article also covers advancements in semiconductors, software, automotive, robotics, spacecrafts, and AI.</description>
-    </item>
-    <item>
-      <title>[NVDA Bullish (+0.44)] Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html</link>
-      <guid isPermaLink="false">a874a9b16272d3382a17e1f4e157323f8564f799e7de979c2dd6a4e51bd7aa02</guid>
-      <pubDate>Sat, 12 Sep 2026 21:11:25 +0000</pubDate>
-      <source>Yahoo Finance</source>
-      <category>NVDA Bullish (+0.44)</category>
-      <description>Sentiment: NVDA Bullish (+0.44)
-
-Nvidia (NVDA) is expanding its global AI infrastructure ambitions with a new initiative in Australia, aiming for a 2 gigawatt AI infrastructure buildout by 2027 through strategic partnerships. This expansion is expected to deepen Nvidia's infrastructure advantage by integrating its hardware, software, and networking into the AI computing ecosystem, thereby strengthening its CUDA platform. While this presents a significant growth engine, potential challenges include power constraints, construction delays, regulatory approvals, and ensuring sufficient utilization of the new AI factories.</description>
     </item>
     <item>
       <title>[MSFT Bullish (+0.22)] Zscaler Conference: AI Agents, Agentic SOC Fuel Zero-Trust Growth Ambitions</title>
@@ -338,191 +613,103 @@ Nvidia (NVDA) is expanding its global AI infrastructure ambitions with a new ini
 Zscaler is expanding its zero-trust platform to secure AI agents and has launched an Agentic SOC to detect, investigate, and respond to security incidents using specialized AI agents. The company sees significant growth potential in its core business and new AI offerings, aiming to increase its enterprise customer base and capitalize on the emerging market for securing agent-to-agent communication.</description>
     </item>
     <item>
-      <title>[NVDA Bearish (-0.30)] Nvidia-Digital Realty AI Factory Buildout Runs Into Grid-Level Financing Test</title>
-      <link>https://finance.biggo.com/news/f75bdebc-1460-439d-9ecf-00a251920dc7</link>
-      <guid isPermaLink="false">b22f307f09cf7b16a39f1ab98cb01c0cc8ec726b056006641883182befa34ead</guid>
-      <pubDate>Sat, 12 Sep 2026 18:20:07 +0000</pubDate>
-      <source>BigGo Finance</source>
-      <category>NVDA Bearish (-0.30)</category>
-      <description>Sentiment: NVDA Bearish (-0.30)
-
-Nvidia and Digital Realty's joint AI factory project, which includes a nearly 100-megawatt research facility in Manassas, Virginia, is facing grid-level financing challenges that have pushed its launch to later in 2026. Despite a recent $150 million financing round for Emerald AI, the core issue lies in operating AI infrastructure within power grid constraints while maintaining performance, rather than a simple funding shortfall. This situation signals potential friction in scaling AI infrastructure, which could impact GPU access for cloud providers and enterprises.</description>
-    </item>
-    <item>
-      <title>[AAPL Bullish (+0.30), NVDA Bullish (+0.34)] Should You Ignore MP Materials and Buy This Rare-Earth Stock Instead?</title>
+      <title>[AAPL Bullish (+0.32)] Should You Ignore MP Materials and Buy This Rare-Earth Stock Instead?</title>
       <link>https://finance.yahoo.com/markets/stocks/articles/ignore-mp-materials-buy-rare-173300735.html</link>
-      <guid isPermaLink="false">695fc5cd0ea6ec168a87ce72f270dc710613e2ddad009f6c667e3641835e86e8</guid>
+      <guid isPermaLink="false">0576f7fe653b2fe24fbb0aaf788d775848e5ae0a4fadfdf1185221463a10d18d</guid>
       <pubDate>Sat, 12 Sep 2026 17:33:00 +0000</pubDate>
       <source>Yahoo Finance</source>
-      <category>AAPL Bullish (+0.30), NVDA Bullish (+0.34)</category>
-      <description>Sentiment: AAPL Bullish (+0.30), NVDA Bullish (+0.34)
+      <category>AAPL Bullish (+0.32)</category>
+      <description>Sentiment: AAPL Bullish (+0.32)
 
 This article compares MP Materials (NYSE: MP) and USA Rare Earth (NASDAQ: USAR), two rare-earth companies crucial for securing a domestic supply for the U.S. Both have government backing but differ in their focus: MP Materials on light rare-earth elements (LREE) and USA Rare Earth on heavy rare-earth elements (HREE). While MP Materials is more advanced in its mine-to-magnet strategy, USA Rare Earth presents a higher-risk, higher-return opportunity due to the strategic importance and higher value of HREEs.</description>
     </item>
     <item>
-      <title>[AAPL Bullish (+0.25), AMZN Bullish (+0.23)] Sirius XM CEO Highlights Cash Flow Growth, New Sports Plans and Ad Expansion at Conference</title>
+      <title>[AAPL Bullish (+0.21)] Sirius XM CEO Highlights Cash Flow Growth, New Sports Plans and Ad Expansion at Conference</title>
       <link>https://finance.yahoo.com/media-advertising/articles/sirius-xm-ceo-highlights-cash-160158796.html</link>
-      <guid isPermaLink="false">48391228a7040c014f898da6bb1a57ce308f1ae274865471181f6d3d17e5c8e1</guid>
+      <guid isPermaLink="false">71bb0afd4ed17ff2e17a179928e1f3c11d269a9784013b1d2cad7a7bf4ed570c</guid>
       <pubDate>Sat, 12 Sep 2026 15:54:27 +0000</pubDate>
       <source>Yahoo Finance</source>
-      <category>AAPL Bullish (+0.25), AMZN Bullish (+0.23)</category>
-      <description>Sentiment: AAPL Bullish (+0.25), AMZN Bullish (+0.23)
+      <category>AAPL Bullish (+0.21)</category>
+      <description>Sentiment: AAPL Bullish (+0.21)
 
 Sirius XM's CEO, Jennifer Witz, outlined the company's strategy focusing on strengthening its subscription business, expanding advertising, and improving efficiency. The company reiterated free cash flow guidance of $1.375 billion this year and $1.5 billion next year, supported by cost savings and lower capital spending. Sirius XM is also focusing on subscriber retention through new features like 360L, Companion, and continuous service, as well as introducing lower-priced packages like the $5 Sports Pass.</description>
     </item>
     <item>
-      <title>[AAPL Bullish (+0.22)] Super Micro Computer Inc Stock (SMCI) Closed Up by 7.28% on Sep 11: What Signal Does It Send?</title>
+      <title>[AAPL Bullish (+0.18)] Super Micro Computer Inc Stock (SMCI) Closed Up by 7.28% on Sep 11: What Signal Does It Send?</title>
       <link>https://www.tradingkey.com/news/market-movers/262164288-market-movers-smci-20260911</link>
-      <guid isPermaLink="false">c5cfc6d4d5427b4d70c9b6dec3a60e250ccd621f5737df35b0e5898d519f4efe</guid>
+      <guid isPermaLink="false">d05763d3b9440dca31cb7909808f6e4612abc8646644f3d79fd4ca4e40d0bdae</guid>
       <pubDate>Sat, 12 Sep 2026 15:41:20 +0000</pubDate>
       <source>TradingKey</source>
-      <category>AAPL Bullish (+0.22)</category>
-      <description>Sentiment: AAPL Bullish (+0.22)
+      <category>AAPL Bullish (+0.18)</category>
+      <description>Sentiment: AAPL Bullish (+0.18)
 
 Super Micro Computer Inc (SMCI) stock rose 7.28% due to institutional sector rotation into computer hardware and server infrastructure, coupled with strong demand reaffirmed by executives and a record AI order backlog. The company reported $39.06 billion in annual revenue and $2.20 billion in net profit, outperforming the Technology Equipment sector. Despite some technical indicators suggesting neutrality or overbought conditions, investor sentiment is bullish due to attractive valuation and strategic positioning in AI infrastructure.</description>
     </item>
     <item>
-      <title>[AMZN Neutral (-0.06)] Costco fixed the one thing members hated about shopping there</title>
-      <link>https://www.thestreet.com/retail/costco-is-winning-a-fight-walmart-and-amazon-thought-theyd-won</link>
-      <guid isPermaLink="false">fbc7e50f1af78e29c7e2740741d69d19ba6f64022d8d4e83c9ab4a307633337b</guid>
-      <pubDate>Sat, 12 Sep 2026 15:24:22 +0000</pubDate>
-      <source>TheStreet</source>
-      <category>AMZN Neutral (-0.06)</category>
-      <description>Sentiment: AMZN Neutral (-0.06)
+      <title>[MSFT Neutral (+0.15)] DELL Stock Surges As AI Earnings Shock Wall Street</title>
+      <link>https://stockstotrade.com/news/dell-technologies-inc-class-c-dell-news-2026_09_11-2/</link>
+      <guid isPermaLink="false">46c549d1b019d75cd41ac99ca35e764d56565dc7cb539fb943f51817839824a7</guid>
+      <pubDate>Sat, 12 Sep 2026 12:43:26 +0000</pubDate>
+      <source>StocksToTrade</source>
+      <category>MSFT Neutral (+0.15)</category>
+      <description>Sentiment: MSFT Neutral (+0.15)
 
-Costco has significantly improved its digital sales and delivery services, with same-day delivery now averaging less than 45 minutes in the U.S. This strategic focus, spearheaded by CEO Ron Vachris, has led to impressive digital sales growth and high member satisfaction, reinforcing Costco's membership-driven business model. The company's cautious yet effective approach to technology investment aims to enhance member experience without replicating the extensive infrastructure of competitors like Amazon and Walmart.</description>
+Dell Technologies Inc. (DELL) stock surged over 10% following a report of record Q2 FY27 earnings, driven by robust AI-optimized server demand. The company reported significant increases in revenue and EPS, along with a massive AI-related backlog, leading management to sharply raise its full-year guidance. Wall Street analysts have responded by increasing their price targets for DELL, acknowledging its transformation into a high-growth AI-levered tech name.</description>
     </item>
     <item>
-      <title>[NVDA Bullish (+0.21)] Home Depot vs. Walmart: Which Consumer Stock Is a Better Buy in 2026?</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/home-depot-vs-walmart-consumer-140308112.html</link>
-      <guid isPermaLink="false">48989c8c87ee25e78bd35ff528bd9f3c49a3231177fe7035b90c856bec231d41</guid>
-      <pubDate>Sat, 12 Sep 2026 14:04:03 +0000</pubDate>
-      <source>Yahoo Finance</source>
-      <category>NVDA Bullish (+0.21)</category>
-      <description>Sentiment: NVDA Bullish (+0.21)
-
-This article compares Home Depot (HD) and Walmart (WMT) as investment opportunities in 2026, analyzing their business models, financial performance, risk profiles, and valuation metrics. While Home Depot is tied to the cyclical housing market, Walmart offers a defensive and predictable option due to its essential goods and everyday low pricing strategy, making it the preferred choice for the author despite its higher P/E ratio. The article aims to help investors decide which consumer stock might be a better buy.</description>
-    </item>
-    <item>
-      <title>[AMZN Bullish (+0.22)] Goldman Sachs Is Bullish. Here Are 3 Reasons AFRM Stock Could Climb 69%.</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-bullish-3-reasons-130003545.html</link>
-      <guid isPermaLink="false">8f8b5e00060ae3b63e46797cd86d6b75b2d1367ad425f7f0135428716a6e9287</guid>
-      <pubDate>Sat, 12 Sep 2026 13:25:55 +0000</pubDate>
-      <source>Yahoo Finance</source>
-      <category>AMZN Bullish (+0.22)</category>
-      <description>Sentiment: AMZN Bullish (+0.22)
-
-Goldman Sachs has raised its price target for Affirm Holdings (AFRM) to $115, implying a potential 69% upside, due to robust growth in interest-bearing loans, the Affirm Card, and strong Amazon volumes. Other financial firms also share this bullish sentiment, with the average target price around $99.48. Affirm's strong Q4 results, driven by expanding interest-bearing business, rapid Affirm Card adoption, and significant growth opportunities in e-commerce and other sectors, underscore the positive outlook.</description>
-    </item>
-    <item>
-      <title>[AAPL Bullish (+0.22)] What Is Driving Attention Around Singularity Future Technology (SGLY)?</title>
+      <title>[AAPL Bullish (+0.24)] What Is Driving Attention Around Singularity Future Technology (SGLY)?</title>
       <link>https://kalkinemedia.com/us/stocks/technology/what-is-driving-attention-around-singularity-future-technology-sgly</link>
-      <guid isPermaLink="false">3e799fa088c6edddba1cf3e6d0a206a6560387e38ee43b1f5904677cf6f020c3</guid>
+      <guid isPermaLink="false">59a261afa5ccbf43c23991a6fa182f83b6bba0767bb1df35dc606cf21b8ac5df</guid>
       <pubDate>Sat, 12 Sep 2026 12:35:05 +0000</pubDate>
       <source>Kalkine Media</source>
-      <category>AAPL Bullish (+0.22)</category>
-      <description>Sentiment: AAPL Bullish (+0.22)
+      <category>AAPL Bullish (+0.24)</category>
+      <description>Sentiment: AAPL Bullish (+0.24)
 
 Singularity Future Technology (SGLY) has garnered market attention following a significant stock retreat, prompting investors to re-examine the logistics-technology company. This market activity is directly linked to the company's technology profile, distinguishing its movements from broader market trends driven by easing energy concerns and inflation updates. The article emphasizes that the current interest stems from verified session activity and the company's business context, rather than future projections.</description>
     </item>
     <item>
-      <title>[MSFT Neutral (+0.14)] Oracle To Spend Another $700 Million On Job Cuts Amid AI-Led Cash Crunch</title>
+      <title>[MSFT Neutral (+0.12)] Oracle To Spend Another $700 Million On Job Cuts Amid AI-Led Cash Crunch</title>
       <link>https://www.ndtv.com/world-news/oracle-to-spend-another-700-million-on-job-cuts-amid-ai-led-cash-crunch-12036303</link>
-      <guid isPermaLink="false">d7fb92b19dd14b356ff08c0ae2dd8b04dd002601f68665153366c167b9d78ffe</guid>
+      <guid isPermaLink="false">e59261f03491609ddc39705c4d1da4ff670310291587bb7f3e77bc7c93dfa9e1</guid>
       <pubDate>Sat, 12 Sep 2026 11:34:00 +0000</pubDate>
       <source>NDTV</source>
-      <category>MSFT Neutral (+0.14)</category>
-      <description>Sentiment: MSFT Neutral (+0.14)
+      <category>MSFT Neutral (+0.12)</category>
+      <description>Sentiment: MSFT Neutral (+0.12)
 
 Oracle is increasing its estimated job cut costs by an additional $700 million, bringing the total to $2.8 billion, as it grapples with a cash crunch stemming from significant investments in AI data centers. Chairman Larry Ellison has also initiated a new share trading program, allowing him to sell 50 million shares. The company has already reduced its workforce by 21,000 employees over the past year due to these financial pressures.</description>
     </item>
     <item>
-      <title>[MSFT Bullish (+0.31)] Morgan Stanley warns of possible stock market correction</title>
+      <title>[MSFT Bullish (+0.30)] Morgan Stanley warns of possible stock market correction</title>
       <link>https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-possible-stock-033300942.html</link>
-      <guid isPermaLink="false">9b957bc9c52b881243e344de0cfc602f9c499646723a606926173f6314e2c54a</guid>
+      <guid isPermaLink="false">a013477e32c07f7f2baffa643531bfae427f05d50756897da6d7f7677ffca527</guid>
       <pubDate>Sat, 12 Sep 2026 10:33:00 +0000</pubDate>
       <source>Yahoo Finance</source>
-      <category>MSFT Bullish (+0.31)</category>
-      <description>Sentiment: MSFT Bullish (+0.31)
+      <category>MSFT Bullish (+0.30)</category>
+      <description>Sentiment: MSFT Bullish (+0.30)
 
 Morgan Stanley's Mike Wilson warns of a potential stock market correction within the next 30 days due to factors like rising oil prices, increased corporate fundraising, and concerns about market liquidity. While acknowledging strong corporate earnings, Wilson advises investors to remain invested but to become more selective, focusing on "quality" stocks with strong free cash flow and favoring the S&amp;P 500. He also suggests using energy stocks as a hedge against oil price surges.</description>
     </item>
     <item>
-      <title>[AAPL Bearish (-0.33)] Apple’s always-listening watch features test eavesdropping laws</title>
+      <title>[AAPL Bearish (-0.34)] Apple’s always-listening watch features test eavesdropping laws</title>
       <link>https://www.latimes.com/world-nation/story/2026-09-12/apples-always-listening-watch-features-test-eavesdropping-laws</link>
-      <guid isPermaLink="false">da1af4ec2f18065ffc4ca59b714a74d4051e3ad57b2278e893166b30b3a4deb9</guid>
+      <guid isPermaLink="false">53b2800f30b2cdd5a01d6f7c365a058b22515aabbe9dd51e6cdf7eaf4fcfb78f</guid>
       <pubDate>Sat, 12 Sep 2026 10:22:15 +0000</pubDate>
       <source>Los Angeles Times</source>
-      <category>AAPL Bearish (-0.33)</category>
-      <description>Sentiment: AAPL Bearish (-0.33)
+      <category>AAPL Bearish (-0.34)</category>
+      <description>Sentiment: AAPL Bearish (-0.34)
 
 Apple's new Siri Recap and Live Rewind features for Apple Watch, which transcribe conversations, are raising legal concerns in several U.S. states regarding eavesdropping and wiretap laws. Legal experts question whether processing speech without creating a traditional audio file could still violate all-party consent laws, despite Apple's privacy assurances that audio is not recorded or stored. The controversy highlights the growing tension between convenience and privacy as ambient AI devices become more prevalent.</description>
     </item>
     <item>
-      <title>[NVDA Neutral (+0.13)] WINTON GROUP Ltd Purchases New Shares in SharkNinja, Inc. $SN</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-purchases-new-shares-in-sharkninja-inc-sn-2026-09-12/</link>
-      <guid isPermaLink="false">afb98bb716e42be9fa3b5cc0264cb300527b8fa710bf5a693ba810f6fab99870</guid>
-      <pubDate>Sat, 12 Sep 2026 09:58:17 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>NVDA Neutral (+0.13)</category>
-      <description>Sentiment: NVDA Neutral (+0.13)
-
-WINTON GROUP Ltd has acquired 16,174 shares of SharkNinja, Inc. (NYSE:SN) during the second quarter, valued at approximately $2.46 million. This purchase is part of broader institutional investment, with hedge funds and institutional investors collectively owning 34.77% of the company. Despite insider selling activity, analysts largely maintain a "Moderate Buy" rating for SharkNinja, which recently reported strong quarterly earnings and issued optimistic fiscal 2026 EPS guidance.</description>
-    </item>
-    <item>
-      <title>[NVDA Neutral (-0.06), AMZN Neutral (-0.08)] Sen. Cory A. Booker Unloads Shares of JD.com, Inc. (NASDAQ:JD)</title>
-      <link>https://www.marketbeat.com/instant-alerts/congress-sen-cory-a-booker-unloads-shares-of-jdcom-inc-nasdaq-jd-2026-09-12/</link>
-      <guid isPermaLink="false">3f5d8736131a20e458c995cd305ca3321fb5c9e02a4f8b82dda9b67804ed94dc</guid>
-      <pubDate>Sat, 12 Sep 2026 09:28:58 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>NVDA Neutral (-0.06), AMZN Neutral (-0.08)</category>
-      <description>Sentiment: NVDA Neutral (-0.06), AMZN Neutral (-0.08)
-
-Senator Cory A. Booker recently sold shares of JD.com, Inc. (NASDAQ:JD) along with holdings in several other major companies like Netflix, McDonald's, NVIDIA, Alnylam Pharmaceuticals, and Amazon. The sale of JD.com shares, valued between $1,001 and $15,000, occurred on August 11th and was disclosed on September 9th. JD.com recently reported strong quarterly earnings, beating analyst estimates for EPS and revenue despite a slight year-over-year revenue decline.</description>
-    </item>
-    <item>
-      <title>[NVDA Neutral (-0.10)] Sen. Cory A. Booker Sells McDonald's Corporation (NYSE:MCD) Shares</title>
-      <link>https://www.marketbeat.com/instant-alerts/congress-sen-cory-a-booker-sells-mcdonalds-corporation-nyse-mcd-shares-2026-09-12/</link>
-      <guid isPermaLink="false">6c8ed883dc72469b104351cf3a49a504c344e3ec7c19a948dbddc0fe66e7ae96</guid>
-      <pubDate>Sat, 12 Sep 2026 09:17:30 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>NVDA Neutral (-0.10)</category>
-      <description>Sentiment: NVDA Neutral (-0.10)
-
-Senator Cory A. Booker recently sold shares of McDonald's Corporation (NYSE:MCD), along with holdings in Netflix, NVIDIA, Alnylam Pharmaceuticals, JD.com, and Amazon. The McDonald's sale, valued between $15,001 and $50,000, occurred on August 11th. Despite beating EPS estimates and reporting revenue growth, McDonald's stock opened near its 12-month low, though analysts maintain a "Moderate Buy" consensus with an average price target of $320.57.</description>
-    </item>
-    <item>
-      <title>[NVDA Bearish (-0.22)] Sen. Cory A. Booker Sells Off Shares of Netflix, Inc. (NASDAQ:NFLX)</title>
-      <link>https://www.marketbeat.com/instant-alerts/congress-sen-cory-a-booker-sells-off-shares-of-netflix-inc-nasdaq-nflx-2026-09-12/</link>
-      <guid isPermaLink="false">bf295836c61dbdc5bc80e3ea8e7001cf60211f5c9aab4abc02a749f32031c993</guid>
-      <pubDate>Sat, 12 Sep 2026 09:11:56 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>NVDA Bearish (-0.22)</category>
-      <description>Sentiment: NVDA Bearish (-0.22)
-
-Senator Cory A. Booker (Democratic-New Jersey) recently sold between $1,001 and $15,000 in Netflix stock on August 11th, according to a September 9th disclosure. He also sold shares in Amazon, McDonald’s, NVIDIA, Alnylam Pharmaceuticals, and JD.com. Despite the sell-off, Netflix reported strong quarterly revenue and earnings, with potential growth from advertising and theatrical releases, though it faces risks from a Florida lawsuit and regulatory concerns.</description>
-    </item>
-    <item>
-      <title>[MSFT Neutral (-0.11)] RFG Advisory LLC Has $1.30 Million Position in Salesforce Inc. $CRM</title>
+      <title>[MSFT Neutral (-0.13)] RFG Advisory LLC Has $1.30 Million Position in Salesforce Inc. $CRM</title>
       <link>https://www.marketbeat.com/instant-alerts/filing-rfg-advisory-llc-has-130-million-position-in-salesforce-inc-crm-2026-09-12/</link>
-      <guid isPermaLink="false">d883957ade262ceaf4008dac2776b780e0d860d33ab533ac5c2e84af158e83db</guid>
+      <guid isPermaLink="false">3be5287c5bd600e3313d274e323cd87e963bf7652f1d2e718cf0299ee123eee6</guid>
       <pubDate>Sat, 12 Sep 2026 08:58:57 +0000</pubDate>
       <source>MarketBeat</source>
-      <category>MSFT Neutral (-0.11)</category>
-      <description>Sentiment: MSFT Neutral (-0.11)
+      <category>MSFT Neutral (-0.13)</category>
+      <description>Sentiment: MSFT Neutral (-0.13)
 
 RFG Advisory LLC has reduced its stake in Salesforce Inc. by 37.0% during the second quarter, now holding 8,306 shares valued at $1.30 million. Other institutional investors have adjusted their positions, with several increasing their holdings. Salesforce's stock was up 1.8% at $247.41, with a market cap of $203.62 billion, and the company recently announced a quarterly dividend of $0.44 per share.</description>
-    </item>
-    <item>
-      <title>[NVDA Bullish (+0.41)] NVIDIA Corporation $NVDA is Patton Albertson Miller Group LLC's 3rd Largest Position</title>
-      <link>https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-is-patton-albertson-miller-group-llcs-3rd-largest-position-2026-09-12/</link>
-      <guid isPermaLink="false">03b38f428bfb559ed05c352a6d06d8d2e4a2f1668468104ab1bff79027add637</guid>
-      <pubDate>Sat, 12 Sep 2026 08:24:28 +0000</pubDate>
-      <source>MarketBeat</source>
-      <category>NVDA Bullish (+0.41)</category>
-      <description>Sentiment: NVDA Bullish (+0.41)
-
-Patton Albertson Miller Group LLC has maintained NVIDIA Corporation (NVDA) as its third-largest holding despite a slight reduction in its position, now representing 5.3% of its portfolio. Analysts remain largely bullish on NVIDIA, with an average "Buy" rating and a consensus price target of $324.34, supported by strong earnings, high demand for AI chips, and infrastructure expansion. However, the company faces risks related to valuation, regulatory scrutiny, and significant insider selling.</description>
     </item>
     <item>
       <title>[MSFT Neutral (-0.12)] New Mexico Educational Retirement Board Increases Holdings in International Business Machines Corporation $IBM</title>
@@ -536,299 +723,79 @@ Patton Albertson Miller Group LLC has maintained NVIDIA Corporation (NVDA) as it
 The New Mexico Educational Retirement Board increased its stake in International Business Machines (IBM) by 7.6% in the second quarter, now holding 46,447 shares valued at $13.1 million. This increase is part of a broader trend of institutional investors boosting their holdings in IBM, which collectively own 58.96% of the company's stock. Despite strategic advancements in AI and quantum computing through partnerships with NASA and Lockheed Martin, IBM faces challenges including headline risk from weaker results and a shareholder-rights investigation.</description>
     </item>
     <item>
-      <title>[MSFT Bullish (+0.31)] How AI agents transform UCaaS workflows and ROI</title>
-      <link>https://www.techtarget.com/enterprise-software/tip/How-AI-agents-transform-UCaaS-workflows-and-ROI</link>
-      <guid isPermaLink="false">741ddaf39fe1040e51d8761d80b7053830138f3366b5fe9671133189822c9034</guid>
-      <pubDate>Sat, 12 Sep 2026 06:02:13 +0000</pubDate>
-      <source>TechTarget</source>
-      <category>MSFT Bullish (+0.31)</category>
-      <description>Sentiment: MSFT Bullish (+0.31)
-
-AI agents are revolutionizing Unified Communications as a Service (UCaaS) workflows by automating tasks autonomously, moving beyond the capabilities of AI copilots. This article explores the benefits of integrating AI agents into UCaaS, emphasizing their ability to handle complex workflows, integrate across platforms, and support omnichannel communications. It also outlines best practices for identifying high-value workflows, establishing governance with human oversight, and defining success metrics to ensure a positive ROI.</description>
-    </item>
-    <item>
-      <title>[NVDA Bullish (+0.33)] Why Himax (HIMX) Stock Is Up Today</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-himax-himx-stock-today-042705296.html</link>
-      <guid isPermaLink="false">4fff08e8d1021c8eb4d371bf63956c6de319ff9c65d58249ea77de10b48f9345</guid>
-      <pubDate>Sat, 12 Sep 2026 04:28:25 +0000</pubDate>
-      <source>Yahoo Finance</source>
-      <category>NVDA Bullish (+0.33)</category>
-      <description>Sentiment: NVDA Bullish (+0.33)
-
-Shares of Himax Technologies (HIMX) rose by 6.6% today after the company unveiled a new automotive touch and display driver integration chip designed for smart cockpit displays. Himax also announced plans to showcase its automotive display and 3D sensing technologies at the upcoming SID Vehicle Displays and Interfaces Symposium. These developments signify Himax's growing presence in the automotive semiconductor and display solutions market.</description>
-    </item>
-    <item>
-      <title>[NVDA Bullish (+0.31)] Bitcoin miner Atlantic HPC to go public in $150M SPAC merger with Aperture AC</title>
-      <link>https://app.dealroom.co/news/note/bitcoin-miner-atlantic-hpc-to-go-public-in-150m-spac-merger-with-aperture-ac</link>
-      <guid isPermaLink="false">18a1d049ef05e2089381b4a8f1ab20fbc686d8de02da406c7c8f5d5358d1ff2b</guid>
-      <pubDate>Sat, 12 Sep 2026 04:25:52 +0000</pubDate>
-      <source>Dealroom</source>
-      <category>NVDA Bullish (+0.31)</category>
-      <description>Sentiment: NVDA Bullish (+0.31)
-
-Atlantic HPC Group, a U.S.-based bitcoin miner, is set to go public through a $150 million SPAC merger with Aperture AC, trading on Nasdaq under "AHPC". The company, which operates 98MW of power capacity and reported $28.6 million in revenue for FY2026, aims to expand beyond bitcoin mining into the artificial intelligence and high-performance computing sectors. This move highlights a trend among crypto miners to leverage their power infrastructure for the growing AI market, capitalizing on their existing utility relationships and infrastructure to accelerate data center development.</description>
-    </item>
-    <item>
-      <title>[AAPL Neutral (+0.02)] GS Stock Price Today - Goldman Sachs Group News, Charts, Retail Sentiment</title>
+      <title>[AAPL Neutral (+0.03)] GS Stock Price Today - Goldman Sachs Group News, Charts, Retail Sentiment</title>
       <link>https://stocktwits.com/symbol/GS</link>
-      <guid isPermaLink="false">51b2d8c234f1bcca6b85fd7c26a070aabd85cea3d0d9410a04f701362497bf6d</guid>
+      <guid isPermaLink="false">a4b872f2b3d0f94326ccbe20bef0302fe58429b019314e7627fc88856ca20fb2</guid>
       <pubDate>Sat, 12 Sep 2026 01:16:36 +0000</pubDate>
       <source>Stocktwits</source>
-      <category>AAPL Neutral (+0.02)</category>
-      <description>Sentiment: AAPL Neutral (+0.02)
+      <category>AAPL Neutral (+0.03)</category>
+      <description>Sentiment: AAPL Neutral (+0.03)
 
 This article provides current stock information for Goldman Sachs Group (GS), including its stock price, market capitalization, volume, and P/E ratio. It also details the company's business segments: Global Banking and Markets, Asset and Wealth Management, and Platform Solutions. Additionally, the article includes recent news headlines related to Goldman Sachs and a sentiment poll regarding the stock.</description>
     </item>
     <item>
-      <title>[AAPL Neutral (+0.13)] Life360 at Goldman Sachs conference: growth broadens beyond family tracking</title>
+      <title>[AAPL Neutral (+0.15)] Life360 at Goldman Sachs conference: growth broadens beyond family tracking</title>
       <link>https://ng.investing.com/news/stock-market-news/life360-at-goldman-sachs-conference-growth-broadens-beyond-family-tracking-93CH-2692497</link>
-      <guid isPermaLink="false">765b6ccee02bdba759f48afc5cf81397af476308b1f1f85a1c3772db76a1998d</guid>
+      <guid isPermaLink="false">89f8292d81056f4d66b168c10b407318628336debbc53bb7e5ada583466c55e4</guid>
       <pubDate>Fri, 11 Sep 2026 23:31:39 +0000</pubDate>
       <source>Investing.com Nigeria</source>
-      <category>AAPL Neutral (+0.13)</category>
-      <description>Sentiment: AAPL Neutral (+0.13)
+      <category>AAPL Neutral (+0.15)</category>
+      <description>Sentiment: AAPL Neutral (+0.15)
 
 Life360 presented at the Goldman Sachs Communacopia + Technology Conference 2026, highlighting its expanded growth strategy beyond traditional family tracking to include subscriptions, advertising, and new products like pet trackers. The company reported record subscription growth in Q2, with management emphasizing profitability in core subscriptions funding new ventures and international expansion. Despite a 35% year-to-date stock drop, Life360 sees significant growth potential in its 100 million monthly active members and plans to target aging parents and reluctant sharers with new services.</description>
     </item>
     <item>
-      <title>[AAPL Bullish (+0.21)] ON Semiconductor Corp Stock (ON) Moved Up by 7.35% on Sep 11: Facts Behind the Movement</title>
+      <title>[AAPL Bullish (+0.23)] ON Semiconductor Corp Stock (ON) Moved Up by 7.35% on Sep 11: Facts Behind the Movement</title>
       <link>https://www.tradingkey.com/news/market-movers/262164172-market-movers-on-20260911</link>
-      <guid isPermaLink="false">85c2e40b0e5a303dacc246e9003c2da796fb441e1638cc86e18e42b9c1d1dc18</guid>
+      <guid isPermaLink="false">738c058ba00c3a49602e8efbe327b85965c4aa00c52f64e831765310aba48c0a</guid>
       <pubDate>Fri, 11 Sep 2026 21:45:25 +0000</pubDate>
-      <source>TradingKey</source>
-      <category>AAPL Bullish (+0.21)</category>
-      <description>Sentiment: AAPL Bullish (+0.21)
-
-ON Semiconductor Corp (ON) stock rose by 7.35% on September 11, driven by a broad tech equity relief rally following favorable August consumer price index data and declining crude oil prices. The surge was also fueled by anticipation for the company's 2026 Investor Day, focusing on its growth in AI power management. Despite some company-specific risks related to acquisitions and market exposure, analysts have a "Hold" rating with an average price target of $107.16.</description>
-    </item>
-    <item>
-      <title>[AAPL Bullish (+0.20)] Form 8K T3 Defense Inc For: 11 September By Investing.com</title>
-      <link>https://ca.investing.com/news/stock-market-news/form-8k-t3-defense-inc-for-11-september-93CH-4837109</link>
-      <guid isPermaLink="false">b6d19d26a0dd4c8ed9837a2d5a7565d8e65b60ec57cf5403e1332b7097033c2b</guid>
-      <pubDate>Fri, 11 Sep 2026 21:36:24 +0000</pubDate>
-      <source>Investing.com Canada</source>
-      <category>AAPL Bullish (+0.20)</category>
-      <description>Sentiment: AAPL Bullish (+0.20)
-
-This article announces the filing of a Form 8K by T3 Defense Inc. on September 11, and provides current financial market data for various indices, commodities, bonds, and stocks. It also lists popular news articles and market movers, including gainers and losers.</description>
-    </item>
-    <item>
-      <title>[AAPL Neutral (+0.12)] Kalshi stock futures plan targets Tesla and Apple shares - Bloomberg</title>
-      <link>https://www.investing.com/news/stock-market-news/kalshi-stock-futures-plan-targets-tesla-and-apple-shares--bloomberg-93CH-4898406</link>
-      <guid isPermaLink="false">912747b097215b527f2d25fe41bf49670b8926facb41fdbf56b431a154e50ad2</guid>
-      <pubDate>Fri, 11 Sep 2026 20:31:49 +0000</pubDate>
-      <source>Investing.com</source>
-      <category>AAPL Neutral (+0.12)</category>
-      <description>Sentiment: AAPL Neutral (+0.12)
-
-Kalshi Inc. is planning to file for regulatory approval to offer single-stock perpetual futures in the U.S., focusing on shares of Tesla, Apple, and Nvidia. The New York-based company intends to submit its application to the Commodity Futures Trading Commission and Securities and Exchange Commission as early as next week. If approved, these would be the first single-stock perpetual futures offered in the United States, marking a significant expansion for newer trading platforms.</description>
-    </item>
-    <item>
-      <title>[MSFT Neutral (+0.15)] Salesforce Enterprise AI Harness latest salvo aimed at ServiceNow</title>
-      <link>https://www.techtarget.com/it-strategy/news/366650256/Salesforce-Enterprise-AI-Harness-latest-salvo-aimed-at-ServiceNow</link>
-      <guid isPermaLink="false">faa5edb7f4edca9a7594e767e569486f380b99b42dd160530a32b4ba845caa2c</guid>
-      <pubDate>Fri, 11 Sep 2026 20:14:53 +0000</pubDate>
-      <source>TechTarget</source>
-      <category>MSFT Neutral (+0.15)</category>
-      <description>Sentiment: MSFT Neutral (+0.15)
-
-Salesforce has introduced its new Enterprise AI Harness, consolidating features from six different products, to compete with ServiceNow and other vendors in managing multi-vendor AI agents. This product aims to give users more governance tools for AI agents and the data they access, addressing concerns about the "SaaSpocalypse" and the need for cross-vendor orchestration in AI environments. Salesforce views this as a strategic move to simplify and consolidate the agentic AI control layer, similar to the evolution of cloud computing.</description>
-    </item>
-    <item>
-      <title>[AAPL Bullish (+0.25)] Best Buy stock hits 52-week high at 91.27 USD</title>
-      <link>https://www.investing.com/news/company-news/best-buy-stock-hits-52week-high-at-9127-usd-93CH-4898361</link>
-      <guid isPermaLink="false">78cbbf3e94d533baba0679a03ff4166b53c83cad28347f26cd3705f0578b3ac3</guid>
-      <pubDate>Fri, 11 Sep 2026 19:22:04 +0000</pubDate>
-      <source>Investing.com</source>
-      <category>AAPL Bullish (+0.25)</category>
-      <description>Sentiment: AAPL Bullish (+0.25)
-
-Best Buy (BBY) stock has reached a new 52-week high of $91.27, trading at $91.32 with a market cap of $19.08 billion, reflecting an 18.5% increase over the past year. The company's recent fiscal Q2 2027 results surpassed expectations, with adjusted earnings of $1.47 per share and revenue of $9.78 billion, though analyst sentiment is mixed regarding its valuation. InvestingPro analysis suggests the stock is undervalued, with an attractive P/E ratio of 15.15 and a low PEG ratio of 0.23.</description>
-    </item>
-    <item>
-      <title>[AAPL Bullish (+0.71)] Apple Shares Jump 3.6% as $1,999 Foldable iPhone Duo Debuts</title>
-      <link>https://finance.biggo.com/news/1e070cdb-1a30-49f0-9f17-9b4a4fd96e24</link>
-      <guid isPermaLink="false">7ccc55443370534a2cb31867e93f5c10037153b63106b41cbb5cdaab303fd805</guid>
-      <pubDate>Fri, 11 Sep 2026 18:21:54 +0000</pubDate>
-      <source>BigGo Finance</source>
-      <category>AAPL Bullish (+0.71)</category>
-      <description>Sentiment: AAPL Bullish (+0.71)
-
-Apple's shares increased by 3.6% following the launch of its new $1,999 foldable iPhone Duo, a significant design change that generated considerable online interest. Despite this, AT&amp;T's CEO dismissed the technology as "not new." Meanwhile, other market segments saw Lennar's stock fall due to rising mortgage rates and Newmont's decline as the materials sector underperformed.</description>
-    </item>
-    <item>
-      <title>[AAPL Bullish (+0.23)] Arista Networks Inc Stock (ANET) Opened Up by 4.45% on Sep 11: Facts Behind the Movement</title>
-      <link>https://www.tradingkey.com/news/market-movers/262163651-market-movers-anet-20260911</link>
-      <guid isPermaLink="false">979db509332cd37ef1fb8171fafdc1aa7dbbd6bb181dddf1e90dba2689a94ed8</guid>
-      <pubDate>Fri, 11 Sep 2026 17:54:20 +0000</pubDate>
       <source>TradingKey</source>
       <category>AAPL Bullish (+0.23)</category>
       <description>Sentiment: AAPL Bullish (+0.23)
 
-Arista Networks Inc (ANET) stock opened up by 4.45% on September 11, driven by strong demand in the artificial intelligence data center ecosystem and a revised full-year revenue outlook. Despite positive momentum from hyperscaler investments and analyst endorsements, the stock experienced intraday volatility due to elevated valuation metrics, potential power bottlenecks, and significant insider share sales. These factors collectively highlight investor enthusiasm for ANET's AI role while also pointing to caution regarding its premium valuation and operational constraints.</description>
+ON Semiconductor Corp (ON) stock rose by 7.35% on September 11, driven by a broad tech equity relief rally following favorable August consumer price index data and declining crude oil prices. The surge was also fueled by anticipation for the company's 2026 Investor Day, focusing on its growth in AI power management. Despite some company-specific risks related to acquisitions and market exposure, analysts have a "Hold" rating with an average price target of $107.16.</description>
     </item>
     <item>
-      <title>[MSFT Neutral (+0.02)] Microsoft comms chief Frank Shaw to exit after nearly three decades shaping the company's message</title>
-      <link>https://www.geekwire.com/2026/microsoft-comms-chief-frank-shaw-to-exit-after-nearly-three-decades-shaping-the-companys-message/</link>
-      <guid isPermaLink="false">1f617ecbd61f26a1ee9b6f8c0548a67414e49863da9388b3686e9f3da5493ea9</guid>
-      <pubDate>Fri, 11 Sep 2026 16:11:51 +0000</pubDate>
-      <source>GeekWire</source>
-      <category>MSFT Neutral (+0.02)</category>
-      <description>Sentiment: MSFT Neutral (+0.02)
-
-Frank X. Shaw, Microsoft's chief communications officer, is set to leave the company at the end of the year after nearly three decades of shaping its message. Shaw, 64, does not have another job lined up and plans to take a break before deciding on his next move. He was instrumental in navigating Microsoft through significant periods, including antitrust challenges, CEO transitions, and the company's recent AI push under Satya Nadella.</description>
-    </item>
-    <item>
-      <title>[AAPL Bullish (+0.33)] Why This Apple Supplier Is on Pace for Its Best 5-Day Stretch in 17 Years</title>
-      <link>https://www.barrons.com/articles/skyworks-solutions-stock-apple-qorvo-64596da8</link>
-      <guid isPermaLink="false">41284140c0b25f993d08d8f9858feeb56bc0d6cde47297cc1ef0a8988feb1791</guid>
-      <pubDate>Fri, 11 Sep 2026 15:49:55 +0000</pubDate>
-      <source>Barron's</source>
-      <category>AAPL Bullish (+0.33)</category>
-      <description>Sentiment: AAPL Bullish (+0.33)
-
-Skyworks Solutions, an Apple supplier, is experiencing its best five-day stock performance in 17 years. This surge occurred after CEO Philip Brace provided an update to investors regarding a crucial merger. The stock closed higher for the fifth consecutive trading session on Friday.</description>
-    </item>
-    <item>
-      <title>[MSFT Bullish (+0.49)] Accountability, oversight and AI: Inside Microsoft’s security transformation</title>
-      <link>https://www.cybersecuritydive.com/news/microsoft-cybersecurity-culture-accountability-software-development/830048/</link>
-      <guid isPermaLink="false">1c2bf778e1d255ec399aea312ad820f3ba8b9b54b178d4c8974cf976e2eba4ff</guid>
-      <pubDate>Fri, 11 Sep 2026 15:33:03 +0000</pubDate>
-      <source>Cybersecurity Dive</source>
-      <category>MSFT Bullish (+0.49)</category>
-      <description>Sentiment: MSFT Bullish (+0.49)
-
-After enduring several high-profile cyberattacks, Microsoft launched its Secure Future Initiative (SFI) in November 2023 to transform its cybersecurity approach. The initiative emphasizes cultural change, accountability, and the integration of AI scanning tools like MDASH to identify vulnerabilities early in the development process. Microsoft is also implementing secure-by-default policies and requiring multifactor authentication for Azure, indicating a significant shift towards prioritizing security across its products and operations.</description>
-    </item>
-    <item>
-      <title>[MSFT Bullish (+0.34)] Jim Cramer on Trinity Industries (TRN): “Shouldn’t Be Down This Much”</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-trinity-industries-trn-184605799.html</link>
-      <guid isPermaLink="false">9440389cae1e4ab5c5da594dc4c05243a289eba240b5c80a6bfa14c3fc193a6d</guid>
-      <pubDate>Fri, 11 Sep 2026 14:46:00 +0000</pubDate>
-      <source>Yahoo Finance</source>
-      <category>MSFT Bullish (+0.34)</category>
-      <description>Sentiment: MSFT Bullish (+0.34)
-
-Jim Cramer commented that Trinity Industries (TRN) has pulled back too much despite its strong leasing business and stable asset base. While the company faces temporary manufacturing bottlenecks affecting margins, its high fleet utilization and positive lease renewal rates, along with growing institutional backing, suggest a favorable entry point for investors. Cramer believes TRN presents a compelling opportunity, encouraging investors to "pull the trigger" after its recent dip.</description>
-    </item>
-    <item>
-      <title>[MSFT Neutral (-0.14)] Hims &amp; Hers Health faces class action over alleged website tracking</title>
-      <link>https://topclassactions.com/lawsuit-settlements/lawsuit-news/hims-hers-health-faces-class-action-over-alleged-website-tracking/</link>
-      <guid isPermaLink="false">9f8794d9eb5d6c9872a09199bd2b5b41c1eca3a7ca3158200e3b0ff20c29e629</guid>
-      <pubDate>Fri, 11 Sep 2026 14:29:30 +0000</pubDate>
-      <source>Top Class Actions</source>
-      <category>MSFT Neutral (-0.14)</category>
-      <description>Sentiment: MSFT Neutral (-0.14)
-
-Hims &amp; Hers Health is facing a class action lawsuit alleging that the company used website tracking technologies to collect and disclose consumers' sensitive health information to third parties without consent. The lawsuit claims that Hims shared this data with companies like Amplitude, Meta, and Google to boost advertising revenue, violating privacy laws and the company's own privacy policy. This complaint comes while Hims is also dealing with a Federal Trade Commission lawsuit over alleged deceptive billing practices.</description>
-    </item>
-    <item>
-      <title>[MSFT Neutral (+0.12)] Alphabet vs. Meta: One Magnificent Seven Stock Is the Better Buy</title>
-      <link>https://247wallst.com/investing/2026/09/11/alphabet-vs-meta-one-magnificent-seven-stock-is-the-better-buy/</link>
-      <guid isPermaLink="false">cd049a2f347e04b12be2256d02438cd62a07d707f217f93a6e2cd65664133af1</guid>
-      <pubDate>Fri, 11 Sep 2026 14:29:06 +0000</pubDate>
-      <source>24/7 Wall St.</source>
-      <category>MSFT Neutral (+0.12)</category>
-      <description>Sentiment: MSFT Neutral (+0.12)
-
-This article compares the Q2 2026 performances of Alphabet (GOOG) and Meta Platforms (META), two "Magnificent Seven" stocks. It concludes that Alphabet is a better buy due to its explosive cloud growth, lower valuation, and strong financial health, while Meta faces challenges from escalating capital expenditures and unresolved litigation, despite its robust advertising revenue. Alphabet's full-stack AI strategy and expanding margins are highlighted as key advantages over Meta's more concentrated and financially strained AI bets.</description>
-    </item>
-    <item>
-      <title>[AAPL Bullish (+0.30)] Why Apple’s next computer should be for the smart home</title>
-      <link>https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router</link>
-      <guid isPermaLink="false">3d1864a539adae56cd5244bbe6c348c1fc32b11e045f235a1838b4e3bd9b97e8</guid>
-      <pubDate>Fri, 11 Sep 2026 14:20:12 +0000</pubDate>
-      <source>The Verge</source>
-      <category>AAPL Bullish (+0.30)</category>
-      <description>Sentiment: AAPL Bullish (+0.30)
-
-The article argues that Apple's next significant computer should be an "intelligent home hub" to address the shortcomings of current smart home infrastructure. This device would combine a Wi-Fi router, an AI-powered smart home hub, and local storage into a single unit, prioritizing local processing for improved speed, privacy, and reliability. The author suggests this "Apple Home Server" could integrate Apple's past ventures in networking and media streaming with its current leadership in Matter and Thread protocols, providing a robust, user-friendly solution for managing digital life and smart home automations locally.</description>
-    </item>
-    <item>
-      <title>[AAPL Neutral (+0.15)] Jensen Huang Mocks Nvidia ‘Circular Financing’ Fears: ‘If That Is, Let’s Do More of That’</title>
-      <link>https://www.benzinga.com/markets/prediction-markets/26/09/61740701/nvidia-circular-financing-jensen-huang</link>
-      <guid isPermaLink="false">ca3aee8266f86cfd910df2c370ac40a02f9c4ff6e7fe59eb6e2687b2032eb63b</guid>
-      <pubDate>Fri, 11 Sep 2026 14:12:41 +0000</pubDate>
-      <source>Benzinga</source>
-      <category>AAPL Neutral (+0.15)</category>
-      <description>Sentiment: AAPL Neutral (+0.15)
-
-Nvidia CEO Jensen Huang dismissed concerns about the company's "circular financing" strategy, where it invests in AI labs and cloud providers that subsequently use Nvidia technology. Huang stated that Nvidia's capital input is small compared to the business generated, emphasizing the company's strong visibility into these projects. Skeptics, including Jim Chanos and Michael Burry, argue that this strategy blurs the lines between genuine demand and demand created by Nvidia's own financial backing.</description>
-    </item>
-    <item>
-      <title>[AAPL Bullish (+0.48)] Company News for Sep 11, 2026</title>
-      <link>https://uk.finance.yahoo.com/news/company-news-sep-11-2026-132500285.html</link>
-      <guid isPermaLink="false">d4c9c84541d73aeab2ec1d27d4aafc4b1d14dc436fba71643ca91e970007f5f4</guid>
-      <pubDate>Fri, 11 Sep 2026 13:20:11 +0000</pubDate>
-      <source>Yahoo Finance UK</source>
-      <category>AAPL Bullish (+0.48)</category>
-      <description>Sentiment: AAPL Bullish (+0.48)
-
-Apple Inc. (AAPL) saw its shares jump 3.6% after unveiling its new $1,999 foldable iPhone Duo. In contrast, Lennar Corporation (LEN) shares fell 3.5% due to rising mortgage rates, and Newmont Corporation (NEM) declined 2% as the materials sector suffered. AT&amp;T Inc. (T) shares rose 1.6%, despite its CEO questioning Apple's foldable phone technology.</description>
-    </item>
-    <item>
-      <title>[AAPL Neutral (+0.04)] Form 8K Ocean Capital Acquisition Corporation For: 11 September By Investing.com</title>
-      <link>https://ca.investing.com/news/stock-market-news/form-8k-oceancapital-acquisition-corporation-for-11-september-93CH-4836703</link>
-      <guid isPermaLink="false">dbf3bffeb8ef02cb72ee3414de6415bb0c12dcd3b110d76ecaed1cef10a41b86</guid>
-      <pubDate>Fri, 11 Sep 2026 13:18:10 +0000</pubDate>
+      <title>[AAPL Bullish (+0.24)] Form 8K T3 Defense Inc For: 11 September By Investing.com</title>
+      <link>https://ca.investing.com/news/stock-market-news/form-8k-t3-defense-inc-for-11-september-93CH-4837109</link>
+      <guid isPermaLink="false">39b09aded718c252439844d7338ace576cc74371d0099e83836f2440547e1706</guid>
+      <pubDate>Fri, 11 Sep 2026 21:36:24 +0000</pubDate>
       <source>Investing.com Canada</source>
-      <category>AAPL Neutral (+0.04)</category>
-      <description>Sentiment: AAPL Neutral (+0.04)
+      <category>AAPL Bullish (+0.24)</category>
+      <description>Sentiment: AAPL Bullish (+0.24)
 
-This article announces the filing of a Form 8K by Ocean Capital Acquisition Corporation for September 11. It's a brief, factual update from Investing.com, a financial markets news source, without further details provided in the snippet.</description>
+This article announces the filing of a Form 8K by T3 Defense Inc. on September 11, and provides current financial market data for various indices, commodities, bonds, and stocks. It also lists popular news articles and market movers, including gainers and losers.</description>
     </item>
     <item>
-      <title>[MSFT Neutral (+0.12)] Francisco Partners, KKR to buy minority stakes in Italy's TeamSystem, sources say</title>
-      <link>https://www.marketscreener.com/news/francisco-partners-kkr-to-buy-minority-stakes-in-italy-s-teamsystem-sources-say-ce785bdfdc8bf220</link>
-      <guid isPermaLink="false">9e663bceb0b68fa7642b6b5be53bcf913e7671aebd790cf4a98ccc32f0a961c7</guid>
-      <pubDate>Fri, 11 Sep 2026 12:43:42 +0000</pubDate>
-      <source>marketscreener.com</source>
-      <category>MSFT Neutral (+0.12)</category>
-      <description>Sentiment: MSFT Neutral (+0.12)
-
-Private equity firms Francisco Partners and KKR have agreed to acquire minority stakes in the Italian software company TeamSystem from its main investor, Hellman &amp; Friedman (H&amp;F). The deal values TeamSystem between EUR8 billion and EUR10 billion, allowing H&amp;F to divest part of its investment amid a challenging market for software stocks. This transaction is seen as an encouraging sign for private equity firms with significant software holdings, demonstrating the ability to reduce stakes in major holdings through a private IPO process.</description>
-    </item>
-    <item>
-      <title>[MSFT Bullish (+0.23)] Needham raises ServiceNow stock price target on AI positioning</title>
-      <link>https://www.investing.com/news/analyst-ratings/needham-raises-servicenow-stock-price-target-on-ai-positioning-93CH-4897665</link>
-      <guid isPermaLink="false">36269ba93e030ef668428329adfa6910628ef089988f39e6fd23f63a4ace7c21</guid>
-      <pubDate>Fri, 11 Sep 2026 11:35:41 +0000</pubDate>
-      <source>Investing.com</source>
-      <category>MSFT Bullish (+0.23)</category>
-      <description>Sentiment: MSFT Bullish (+0.23)
-
-Needham has increased its price target for ServiceNow (NYSE:NOW) shares to $155 from $115, maintaining a Buy rating, citing the company's strong positioning and roadmap, especially in AI Governance. This move follows ServiceNow's impressive 37% stock climb since its Q2 fiscal 2026 earnings report, significantly outperforming the S&amp;P 500, and is further supported by positive analyst sentiment regarding its AI strategy. The company is seen as undervalued relative to its Fair Value despite its current P/E ratio of 82.15 and a market cap of $135.6 billion.</description>
-    </item>
-    <item>
-      <title>[TSM Bullish (+0.44)] Taiwan Semiconductor September Revenue Surges 53% and Can’t Keep Up With Demand</title>
+      <title>[TSM Bullish (+0.42)] Taiwan Semiconductor September Revenue Surges 53% and Can’t Keep Up With Demand</title>
       <link>https://247wallst.com/investing/2026/09/10/taiwan-semiconductor-september-revenue-surges-53-and-cant-keep-up-with-demand/</link>
-      <guid isPermaLink="false">df53466c1b16ba6b6a2e150193e6b8017a933d99018f6398b59fda097bc960dd</guid>
+      <guid isPermaLink="false">e2815df086f2a0f0eb6bcf0e77a2daef8be3b7d0ade7c37fd73ec8115732d1b3</guid>
       <pubDate>Thu, 10 Sep 2026 15:27:56 +0000</pubDate>
       <source>24/7 Wall St.</source>
-      <category>TSM Bullish (+0.44)</category>
-      <description>Sentiment: TSM Bullish (+0.44)
+      <category>TSM Bullish (+0.42)</category>
+      <description>Sentiment: TSM Bullish (+0.42)
 
 Taiwan Semiconductor Manufacturing (TSMC) reported a 53% year-over-year surge in August 2026 revenue, reaching $16.35 billion, significantly exceeding its own full-year guidance. Despite this strong financial performance, TSMC is struggling to meet customer demand, particularly due to tight packaging capacity and a significant gap between demand and supply for AI chips. The company is aggressively expanding its capacity, with 20 fabs under construction, and anticipates continued strong demand from the AI sector through 2029-2030.</description>
     </item>
     <item>
-      <title>[TSM Bullish (+0.83)] World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high</title>
+      <title>[TSM Bullish (+0.82)] World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high</title>
       <link>https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html</link>
-      <guid isPermaLink="false">1fae45d2c6da6f118718418f3190001453ae07ccb0d1329295044152af7cfde9</guid>
+      <guid isPermaLink="false">caf6e261d69acb3f9de0fc878a13559802880298c2782776d3f1e7a14987ce62</guid>
       <pubDate>Thu, 10 Sep 2026 01:33:00 +0000</pubDate>
       <source>CNBC</source>
-      <category>TSM Bullish (+0.83)</category>
-      <description>Sentiment: TSM Bullish (+0.83)
+      <category>TSM Bullish (+0.82)</category>
+      <description>Sentiment: TSM Bullish (+0.82)
 
 Taiwan Semiconductor Manufacturing Co. (TSMC) reported a record monthly revenue for August, surging over 53% year-on-year to $16.35 billion, primarily driven by robust demand for chips used in artificial intelligence applications. The company has maintained its dominant market share in the global foundry market, with strong bookings for its advanced chipmaking capacities. TSMC also announced a collaboration with ASML to advance next-generation chipmaking technology, planning to use ASML's High NA technology for advanced nodes starting in 2030.</description>
     </item>
     <item>
-      <title>[TSM Bullish (+0.20)] Intel Climbs 5% on High-NA EUV Production Lead, ASML and Taiwan Semiconductor Advance 3%</title>
+      <title>[TSM Bullish (+0.18)] Intel Climbs 5% on High-NA EUV Production Lead, ASML and Taiwan Semiconductor Advance 3%</title>
       <link>https://247wallst.com/investing/2026/09/08/intel-climbs-5-on-high-na-euv-production-lead-asml-and-taiwan-semiconductor-advance-3/</link>
-      <guid isPermaLink="false">13439e71e13b3f0f6764fd569e26a647ebd62f69d8b61b325bc1070ed9b862df</guid>
+      <guid isPermaLink="false">f132f3d878db62e3cb4f7320998c9be32680972ffe2923e867903738cb329cfc</guid>
       <pubDate>Tue, 08 Sep 2026 13:27:56 +0000</pubDate>
       <source>24/7 Wall St.</source>
-      <category>TSM Bullish (+0.20)</category>
-      <description>Sentiment: TSM Bullish (+0.20)
+      <category>TSM Bullish (+0.18)</category>
+      <description>Sentiment: TSM Bullish (+0.18)
 
 Intel's stock surged 5% after the company announced a lithography milestone, processing over one million wafers on High-NA EUV equipment, including production layers for its Panther Lake processors, putting it years ahead of rivals like Samsung and TSMC in this advanced technology. ASML and Taiwan Semiconductor also saw gains of 3-4% due to AI-driven demand and Intel's achievement. Intel's Q2 revenue rose 25%, marking its strongest growth in over 15 years, though its significant year-to-date gain already reflects high investor optimism.</description>
     </item>
@@ -866,26 +833,59 @@ Taiwan's "silicon shield," stemming from its dominance in advanced semiconductor
 AMD processors are primarily manufactured in Taiwan by Taiwan Semiconductor Manufacturing Company (TSMC), the world's largest semiconductor producer. While TSMC has facilities in Arizona for some AI chips, the final assembly and packaging of AMD CPUs occur in places like Penang, Malaysia, and China. This manufacturing strategy is similar to Nvidia's, with TSMC also producing chips for other major tech companies like Apple and Tesla.</description>
     </item>
     <item>
-      <title>[TSM Bullish (+0.51)] Marvell Technology and Taiwan Semiconductor are No-Brainer Picks: They Have What Wins in a Gold Rush</title>
+      <title>[TSM Bullish (+0.49)] Marvell Technology and Taiwan Semiconductor are No-Brainer Picks: They Have What Wins in a Gold Rush</title>
       <link>https://247wallst.com/investing/2026/09/04/marvell-technology-and-taiwan-semiconductor-are-no-brainer-picks-they-have-what-wins-in-a-gold-rush/</link>
-      <guid isPermaLink="false">42aa07ce2c7f2080453c21f89cde3586d39a7733aeb7d0fa58c9389099598a19</guid>
+      <guid isPermaLink="false">fddd16e7f85fe30d8028a65bb861c89556d646c96e498619646531bbdfb591ea</guid>
       <pubDate>Fri, 04 Sep 2026 11:40:38 +0000</pubDate>
       <source>24/7 Wall St.</source>
-      <category>TSM Bullish (+0.51)</category>
-      <description>Sentiment: TSM Bullish (+0.51)
+      <category>TSM Bullish (+0.49)</category>
+      <description>Sentiment: TSM Bullish (+0.49)
 
 Marvell Technology (MRVL) and Taiwan Semiconductor Manufacturing (TSM) are presented as strong investment opportunities in the AI infrastructure buildout, likened to selling "picks and shovels" during a gold rush. Both companies reported impressive Q2 revenue growth (around 36%), with TSMC demonstrating broad market exposure through its foundry services and Marvell focusing on custom silicon and optical interconnects for hyperscalers. While TSMC offers a steadier investment due to its foundational role in chip manufacturing, Marvell, despite being higher-variance, shows significant growth potential, particularly with its custom silicon business projected to more than double by fiscal 2028.</description>
     </item>
     <item>
-      <title>[TSM Neutral (+0.02)] Licensable picture: Taiwan Semiconductor Manufacturing Co Ltd Chairman Morris Chang answers a question in Taipei</title>
+      <title>[TSM Neutral (+0.05)] Licensable picture: Taiwan Semiconductor Manufacturing Co Ltd Chairman Morris Chang answers a question in Taipei</title>
       <link>https://www.reutersconnect.com/item/taiwan-semiconductor-manufacturing-co-ltd-chairman-morris-chang-answers-a-question-in-taipei/dGFnOnJldXRlcnMuY29tLDIwMTQ6bmV3c21sX0dNMUVBN0cxQkRDMDE</link>
-      <guid isPermaLink="false">d4e8c21552c93789aa0b67c60b13ac4b2109dc3b424a00cc916a686390798100</guid>
+      <guid isPermaLink="false">382585bd3120108936797e905143c34cb2b35b65fbe72025300a38e8dbf6974d</guid>
       <pubDate>Wed, 02 Sep 2026 12:34:03 +0000</pubDate>
       <source>Reuters Connect</source>
-      <category>TSM Neutral (+0.02)</category>
-      <description>Sentiment: TSM Neutral (+0.02)
+      <category>TSM Neutral (+0.05)</category>
+      <description>Sentiment: TSM Neutral (+0.05)
 
 This Reuters licensable picture shows Taiwan Semiconductor Manufacturing Co Ltd (TSMC) Chairman Morris Chang speaking at an investor conference in Taipei on July 16, 2014. The image was captured on the day TSMC announced a 15.3 percent increase in quarterly profit, driven by strong demand from smartphone manufacturers like Apple Inc. The photograph's details, including dimensions, credit, source, and byline, are provided for licensing purposes.</description>
+    </item>
+    <item>
+      <title>[TSM Bullish (+0.88)] TSMC will invest an additional $100 billion into Arizona operations</title>
+      <link>https://azbigmedia.com/business/tsmc-will-invest-an-additional-100-billion-into-arizona-operations/</link>
+      <guid isPermaLink="false">b3572a91c71fea5d6f3c4b55ad4c79ecf2220884878d5f391b076b13c050803c</guid>
+      <pubDate>Sat, 29 Aug 2026 23:52:23 +0000</pubDate>
+      <source>AZ Big Media</source>
+      <category>TSM Bullish (+0.88)</category>
+      <description>Sentiment: TSM Bullish (+0.88)
+
+Taiwan Semiconductor Manufacturing Company (TSMC) announced an additional $100 billion investment in its Arizona operations, bringing its total U.S. commitment to $265 billion. This expansion will fund four more semiconductor fabrication plants and advanced packaging facilities, solidifying Arizona's role as a key hub for advanced chip manufacturing. The investment aims to create tens of thousands of high-paying jobs and strengthen the U.S. semiconductor supply chain, driven by the surging demand for artificial intelligence.</description>
+    </item>
+    <item>
+      <title>[TSM Bullish (+0.49)] TSM Rides on AI, Advanced Nodes &amp; Capacity Expansion: Worth a Buy?</title>
+      <link>https://www.tradingview.com/news/zacks:10f15255e094b:0-tsm-rides-on-ai-advanced-nodes-capacity-expansion-worth-a-buy/</link>
+      <guid isPermaLink="false">f20d3519c0e4f5f2757e63b5cc002e02f9d26addc7573267b9db2dc19675ede5</guid>
+      <pubDate>Tue, 25 Aug 2026 15:41:09 +0000</pubDate>
+      <source>TradingView</source>
+      <category>TSM Bullish (+0.49)</category>
+      <description>Sentiment: TSM Bullish (+0.49)
+
+Taiwan Semiconductor Manufacturing Company (TSM) is poised for continued growth driven by the surging demand for AI infrastructure, rapid adoption of advanced process technologies, and expanding global manufacturing capacity. The company reported strong Q2 2026 revenues and expects continued robust demand, especially with the industry's shift towards agentic AI. TSM's leadership in leading-edge nodes like 3nm and the upcoming 2nm and A16 technologies, coupled with international capacity expansions, are strengthening its competitive position and addressable market opportunities.</description>
+    </item>
+    <item>
+      <title>[TSM Bullish (+0.50)] TSMC Stock And 2 Global Blue Chips For AI Infrastructure Growth</title>
+      <link>https://simplywall.st/stocks/tw/semiconductors/twse-2330/taiwan-semiconductor-manufacturing-shares/news/tsmc-stock-and-2-global-blue-chips-for-ai-infrastructure-gro</link>
+      <guid isPermaLink="false">952af682fd4a1e197ec887e19ec99b6a0dc56785c91f35d00c894a4e2ee4476d</guid>
+      <pubDate>Tue, 25 Aug 2026 15:41:09 +0000</pubDate>
+      <source>Simply Wall Street</source>
+      <category>TSM Bullish (+0.50)</category>
+      <description>Sentiment: TSM Bullish (+0.50)
+
+This article identifies three multinational blue-chip stocks, Taiwan Semiconductor Manufacturing (TSMC), Atlas Copco, and Airbus, that are well-positioned for growth amid evolving global trade rules and regulation. It highlights their global reach and role in key sectors like AI infrastructure, industrial capital spending, and aerospace. The article emphasizes how these companies' strategic responses to geopolitical and economic shifts make them compelling investment opportunities.</description>
     </item>
   </channel>
 </rss>
